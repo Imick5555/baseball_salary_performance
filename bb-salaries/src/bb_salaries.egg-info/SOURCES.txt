@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/bb_salaries/__init__.py
+src/bb_salaries/core.py
+src/bb_salaries.egg-info/PKG-INFO
+src/bb_salaries.egg-info/SOURCES.txt
+src/bb_salaries.egg-info/dependency_links.txt
+src/bb_salaries.egg-info/top_level.txt
+tests/test_core.py
