@@ -13,7 +13,11 @@ classifiers = [
 "Operating System :: OS Independent"
 ]
 dependencies = [
-"numpy>=1.26.0"
+    "ipykernel>=7.1.0",
+    "jupyter>=1.1.1",
+    "numpy>=2.3.5",
+    "pandas>=2.3.3",
+    "streamlit>=1.40.0",
 ]
 [project.urls]
 Homepage = "https://github.com/imick5555/baseball_salary_performance"
@@ -22,3 +26,6 @@ Issues = "https://github.com/imick5555/baseball_salary_performance/issues"
 
 [project.optional-dependencies]
 dev = ["pytest"]
+
+[tool.uv-build]
+package-dir = { "" = "src" }

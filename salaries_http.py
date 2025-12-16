@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 import asyncio
 import json
@@ -8,11 +7,7 @@ import cloudscraper
 from bs4 import BeautifulSoup, Comment
 from typing import Optional
 
-def add_one(x):
-    return x + 1
-
-def calculate_mean(numbers):
-    return np.mean(numbers)
+CF_CLEARANCE_VALUE = "PJDkOHnomh5mSmsLCmxBOr_s3.n6l32oCj30gs5xtQg-1764910639-1.2.1.1-noJsYKc4Unwuax6UZ9pFUDXjjjiPMQ6cOENb2nBVWd_mUAQ64h0Gd1OXYb0fFmJEUuCzoHGV_XInPyA.8QrgW_kkjDPTkeg4TSSt.3O32vEc6HyGtGy4lomj4wAc6T0kNaKxCxmGr_rHrRK7N8B1mcVZLDFl.x7tzi8BqhC7dEDAZ24C9vIzMbROo.Ue6g2TCJNVf.eI3TiYpQ_meOyY7bdctSHoBCG3_9y9JmZX3r8"
 
 headers = {
     "User-Agent": (
@@ -178,14 +173,79 @@ def churn_with_cloudscraper():
             "salaries": salary_data
         }
 
-        
+        # Save on every player
         with open("salaries.json", "w") as f:
             json.dump(sorted(results.values(), key=lambda x: x['id']), f, indent=2)
 
         print(f"Success: Saved {link['player']} → {len(salary_data)} years")
-        time.sleep(4)  
+        time.sleep(4)  # Be nice
 
     print("All done!")
+
+# async def churn() -> None:
+#     """Main function to scrape salary data from all player links"""
+#     headers = create_http_headers()
+#     connector = aiohttp.TCPConnector(limit=10, limit_per_host=5)
+#     timeout = aiohttp.ClientTimeout(total=30, connect=10)
+   
+#     cookies = {"cf_clearance": CF_CLEARANCE_VALUE}
+
+#     async with aiohttp.ClientSession(headers=headers, cookies=cookies, connector=connector, timeout=timeout) as session:
+#         with open("unique_links.json", 'r') as f:
+#             unique_links = json.load(f)
+       
+#         existing_salaries = []
+#         try:
+#             with open("salaries.json", 'r') as f:
+#                 existing_salaries = json.load(f)
+#         except FileNotFoundError:
+#             print("No existing salaries.json found, starting fresh.")
+       
+#         existing_ids = {entry['id'] for entry in existing_salaries if entry.get('salaries')}
+#         remaining_links = [link for link in unique_links if link['id'] not in existing_ids]
+       
+#         print(f"Total unique links: {len(unique_links)}")
+#         print(f"Already processed: {len(existing_ids)}")
+#         print(f"Remaining to process: {len(remaining_links)}")
+       
+#         if not remaining_links:
+#             print("All links have been processed!")
+#             return
+       
+#         salaries_by_id = {entry['id']: entry for entry in existing_salaries}
+       
+#         BIN_SIZE = 1
+#         for i in range(0, len(remaining_links), BIN_SIZE):
+#             bin_links = remaining_links[i:i + BIN_SIZE]
+#             print(f"\nProcessing bin {i // BIN_SIZE + 1}...")
+           
+#             tasks = [scrape_salary_from_url(link['url'], session) for link in bin_links]
+#             salary_results = await asyncio.gather(*tasks, return_exceptions=True)
+           
+#             for link, salary_result in zip(bin_links, salary_results):
+#                 if isinstance(salary_result, Exception):
+#                     print(f"Error processing {link['url']}: {salary_result}")
+#                     salary_dict = {}
+#                 else:
+#                     salary_dict = salary_result
+               
+#                 entry = {
+#                     "id": link['id'],
+#                     "player": link['player'],
+#                     "salaries": salary_dict
+#                 }
+#                 salaries_by_id[link['id']] = entry
+           
+#             all_salaries = list(salaries_by_id.values())
+#             all_salaries.sort(key=lambda x: x['id'])
+           
+#             with open("salaries.json", 'w') as f:
+#                 json.dump(all_salaries, f, indent=2)
+           
+#             print(f"Saved progress. Total entries: {len(all_salaries)}")
+#             await asyncio.sleep(4)
+       
+#         print(f"\nChurn complete! All salary data saved to salaries.json")
 
 
 if __name__ == "__main__":
@@ -201,26 +261,3 @@ if __name__ == "__main__":
    
     # Uncomment to run full scraping
     asyncio.run(churn_with_cloudscraper())
-
-
-with open("salaries.json") as f:
-    data = json.load(f)
-
-df = pd.json_normalize(data)
-#df.to_csv("salaries.csv", index=False)
-
-#salary = pd.read_csv('salaries.csv')
-
-long_df = (
-    df
-    .melt(
-        id_vars=["id", "player"],           # columns to keep
-        var_name="year",
-        value_name="salary"
-    )
-)
-
-# # Extract year number from 'salaries.2018'
-long_df["year"] = long_df["year"].str.replace("salaries.", "", regex=False).astype(int)
-
-long_df.to_csv("salaries.csv", index=False)

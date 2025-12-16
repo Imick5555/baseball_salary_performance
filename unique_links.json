@@ -1,0 +1,5137 @@
+[
+  {
+    "id": 1,
+    "url": "https://www.baseball-reference.com/players/l/lindofr01.shtml",
+    "player": "Francisco Lindor"
+  },
+  {
+    "id": 2,
+    "url": "https://www.baseball-reference.com/players/t/turnetr01.shtml",
+    "player": "Trea Turner"
+  },
+  {
+    "id": 3,
+    "url": "https://www.baseball-reference.com/players/m/machama01.shtml",
+    "player": "Manny Machado"
+  },
+  {
+    "id": 4,
+    "url": "https://www.baseball-reference.com/players/h/hernace02.shtml",
+    "player": "C\u00c3\u00a9sar Hern\u00c3\u00a1ndez"
+  },
+  {
+    "id": 5,
+    "url": "https://www.baseball-reference.com/players/f/freemfr01.shtml",
+    "player": "Freddie Freeman"
+  },
+  {
+    "id": 6,
+    "url": "https://www.baseball-reference.com/players/m/merriwh01.shtml",
+    "player": "Whit Merrifield"
+  },
+  {
+    "id": 7,
+    "url": "https://www.baseball-reference.com/players/b/bregmal01.shtml",
+    "player": "Alex Bregman"
+  },
+  {
+    "id": 8,
+    "url": "https://www.baseball-reference.com/players/m/markani01.shtml",
+    "player": "Nick Markakis"
+  },
+  {
+    "id": 9,
+    "url": "https://www.baseball-reference.com/players/s/stantmi03.shtml",
+    "player": "Giancarlo Stanton"
+  },
+  {
+    "id": 10,
+    "url": "https://www.baseball-reference.com/players/s/semiema01.shtml",
+    "player": "Marcus Semien"
+  },
+  {
+    "id": 11,
+    "url": "https://www.baseball-reference.com/players/r/ramirjo01.shtml",
+    "player": "Jos\u00c3\u00a9 Ram\u00c3\u00adrez"
+  },
+  {
+    "id": 12,
+    "url": "https://www.baseball-reference.com/players/b/blackch02.shtml",
+    "player": "Charlie Blackmon"
+  },
+  {
+    "id": 13,
+    "url": "https://www.baseball-reference.com/players/h/harpebr03.shtml",
+    "player": "Bryce Harper"
+  },
+  {
+    "id": 14,
+    "url": "https://www.baseball-reference.com/players/g/goldspa01.shtml",
+    "player": "Paul Goldschmidt"
+  },
+  {
+    "id": 15,
+    "url": "https://www.baseball-reference.com/players/a/albieoz01.shtml",
+    "player": "Ozzie Albies"
+  },
+  {
+    "id": 16,
+    "url": "https://www.baseball-reference.com/players/h/hanigmi01.shtml",
+    "player": "Mitch Haniger"
+  },
+  {
+    "id": 17,
+    "url": "https://www.baseball-reference.com/players/p/perazjo01.shtml",
+    "player": "Jos\u00c3\u00a9 Peraza"
+  },
+  {
+    "id": 18,
+    "url": "https://www.baseball-reference.com/players/m/mccutan01.shtml",
+    "player": "Andrew McCutchen"
+  },
+  {
+    "id": 19,
+    "url": "https://www.baseball-reference.com/players/l/lowrije01.shtml",
+    "player": "Jed Lowrie"
+  },
+  {
+    "id": 20,
+    "url": "https://www.baseball-reference.com/players/s/santaca01.shtml",
+    "player": "Carlos Santana"
+  },
+  {
+    "id": 21,
+    "url": "https://www.baseball-reference.com/players/c/casteni01.shtml",
+    "player": "Nick Castellanos"
+  },
+  {
+    "id": 22,
+    "url": "https://www.baseball-reference.com/players/c/carpema01.shtml",
+    "player": "Matt Carpenter"
+  },
+  {
+    "id": 23,
+    "url": "https://www.baseball-reference.com/players/h/hosmeer01.shtml",
+    "player": "Eric Hosmer"
+  },
+  {
+    "id": 24,
+    "url": "https://www.baseball-reference.com/players/a/arenano01.shtml",
+    "player": "Nolan Arenado"
+  },
+  {
+    "id": 25,
+    "url": "https://www.baseball-reference.com/players/a/anderbr06.shtml",
+    "player": "Brian Anderson"
+  },
+  {
+    "id": 26,
+    "url": "https://www.baseball-reference.com/players/c/choosh01.shtml",
+    "player": "Shin-Soo Choo"
+  },
+  {
+    "id": 27,
+    "url": "https://www.baseball-reference.com/players/r/rizzoan01.shtml",
+    "player": "Anthony Rizzo"
+  },
+  {
+    "id": 28,
+    "url": "https://www.baseball-reference.com/players/s/sanchca01.shtml",
+    "player": "Yolmer S\u00c3\u00a1nchez"
+  },
+  {
+    "id": 29,
+    "url": "https://www.baseball-reference.com/players/b/beninan01.shtml",
+    "player": "Andrew Benintendi"
+  },
+  {
+    "id": 30,
+    "url": "https://www.baseball-reference.com/players/h/hoskirh01.shtml",
+    "player": "Rhys Hoskins"
+  },
+  {
+    "id": 31,
+    "url": "https://www.baseball-reference.com/players/i/inciaen01.shtml",
+    "player": "Ender Inciarte"
+  },
+  {
+    "id": 32,
+    "url": "https://www.baseball-reference.com/players/o/olsonma02.shtml",
+    "player": "Matt Olson"
+  },
+  {
+    "id": 33,
+    "url": "https://www.baseball-reference.com/players/g/galvifr01.shtml",
+    "player": "Freddy Galvis"
+  },
+  {
+    "id": 34,
+    "url": "https://www.baseball-reference.com/players/s/storytr01.shtml",
+    "player": "Trevor Story"
+  },
+  {
+    "id": 35,
+    "url": "https://www.baseball-reference.com/players/d/daviskh01.shtml",
+    "player": "Khris Davis"
+  },
+  {
+    "id": 36,
+    "url": "https://www.baseball-reference.com/players/y/yelicch01.shtml",
+    "player": "Christian Yelich"
+  },
+  {
+    "id": 37,
+    "url": "https://www.baseball-reference.com/players/m/moncayo01.shtml",
+    "player": "Yo\u00c3\u00a1n Moncada"
+  },
+  {
+    "id": 38,
+    "url": "https://www.baseball-reference.com/players/m/martijd02.shtml",
+    "player": "J.D. Martinez"
+  },
+  {
+    "id": 39,
+    "url": "https://www.baseball-reference.com/players/c/castrst01.shtml",
+    "player": "Starlin Castro"
+  },
+  {
+    "id": 40,
+    "url": "https://www.baseball-reference.com/players/b/baezja01.shtml",
+    "player": "Javier B\u00c3\u00a1ez"
+  },
+  {
+    "id": 41,
+    "url": "https://www.baseball-reference.com/players/c/confomi01.shtml",
+    "player": "Michael Conforto"
+  },
+  {
+    "id": 42,
+    "url": "https://www.baseball-reference.com/players/g/gennesc01.shtml",
+    "player": "Scooter Gennett"
+  },
+  {
+    "id": 43,
+    "url": "https://www.baseball-reference.com/players/m/mancitr01.shtml",
+    "player": "Trey Mancini"
+  },
+  {
+    "id": 44,
+    "url": "https://www.baseball-reference.com/players/m/moustmi01.shtml",
+    "player": "Mike Moustakas"
+  },
+  {
+    "id": 45,
+    "url": "https://www.baseball-reference.com/players/b/bellico01.shtml",
+    "player": "Cody Bellinger"
+  },
+  {
+    "id": 46,
+    "url": "https://www.baseball-reference.com/players/s/segurje01.shtml",
+    "player": "Jean Segura"
+  },
+  {
+    "id": 47,
+    "url": "https://www.baseball-reference.com/players/d/doziebr01.shtml",
+    "player": "Brian Dozier"
+  },
+  {
+    "id": 48,
+    "url": "https://www.baseball-reference.com/players/b/brantmi02.shtml",
+    "player": "Michael Brantley"
+  },
+  {
+    "id": 49,
+    "url": "https://www.baseball-reference.com/players/e/escobed01.shtml",
+    "player": "Eduardo Escobar"
+  },
+  {
+    "id": 50,
+    "url": "https://www.baseball-reference.com/players/s/seageky01.shtml",
+    "player": "Kyle Seager"
+  },
+  {
+    "id": 51,
+    "url": "https://www.baseball-reference.com/players/o/ozunama01.shtml",
+    "player": "Marcell Ozuna"
+  },
+  {
+    "id": 52,
+    "url": "https://www.baseball-reference.com/players/v/vottojo01.shtml",
+    "player": "Joey Votto"
+  },
+  {
+    "id": 53,
+    "url": "https://www.baseball-reference.com/players/c/cainlo01.shtml",
+    "player": "Lorenzo Cain"
+  },
+  {
+    "id": 54,
+    "url": "https://www.baseball-reference.com/players/s/springe01.shtml",
+    "player": "George Springer"
+  },
+  {
+    "id": 55,
+    "url": "https://www.baseball-reference.com/players/c/candeje01.shtml",
+    "player": "Jeimer Candelario"
+  },
+  {
+    "id": 56,
+    "url": "https://www.baseball-reference.com/players/d/desmoia01.shtml",
+    "player": "Ian Desmond"
+  },
+  {
+    "id": 57,
+    "url": "https://www.baseball-reference.com/players/c/chapmma01.shtml",
+    "player": "Matt Chapman"
+  },
+  {
+    "id": 58,
+    "url": "https://www.baseball-reference.com/players/b/bettsmo01.shtml",
+    "player": "Mookie Betts"
+  },
+  {
+    "id": 59,
+    "url": "https://www.baseball-reference.com/players/p/peralda01.shtml",
+    "player": "David Peralta"
+  },
+  {
+    "id": 60,
+    "url": "https://www.baseball-reference.com/players/j/jonesad01.shtml",
+    "player": "Adam Jones"
+  },
+  {
+    "id": 61,
+    "url": "https://www.baseball-reference.com/players/u/uptonju01.shtml",
+    "player": "Justin Upton"
+  },
+  {
+    "id": 62,
+    "url": "https://www.baseball-reference.com/players/k/keplema01.shtml",
+    "player": "Max Kepler"
+  },
+  {
+    "id": 63,
+    "url": "https://www.baseball-reference.com/players/g/gardnbr01.shtml",
+    "player": "Brett Gardner"
+  },
+  {
+    "id": 64,
+    "url": "https://www.baseball-reference.com/players/t/troutmi01.shtml",
+    "player": "Mike Trout"
+  },
+  {
+    "id": 65,
+    "url": "https://www.baseball-reference.com/players/a/anderti01.shtml",
+    "player": "Tim Anderson"
+  },
+  {
+    "id": 66,
+    "url": "https://www.baseball-reference.com/players/a/andujmi01.shtml",
+    "player": "Miguel Andujar"
+  },
+  {
+    "id": 67,
+    "url": "https://www.baseball-reference.com/players/m/martest01.shtml",
+    "player": "Starling Marte"
+  },
+  {
+    "id": 68,
+    "url": "https://www.baseball-reference.com/players/s/suareeu01.shtml",
+    "player": "Eugenio Su\u00c3\u00a1rez"
+  },
+  {
+    "id": 69,
+    "url": "https://www.baseball-reference.com/players/p/piscost01.shtml",
+    "player": "Stephen Piscotty"
+  },
+  {
+    "id": 70,
+    "url": "https://www.baseball-reference.com/players/t/tayloch03.shtml",
+    "player": "Chris Taylor"
+  },
+  {
+    "id": 71,
+    "url": "https://www.baseball-reference.com/players/k/kipnija01.shtml",
+    "player": "Jason Kipnis"
+  },
+  {
+    "id": 72,
+    "url": "https://www.baseball-reference.com/players/s/simmoan01.shtml",
+    "player": "Andrelton Simmons"
+  },
+  {
+    "id": 73,
+    "url": "https://www.baseball-reference.com/players/a/altuvjo01.shtml",
+    "player": "Jose Altuve"
+  },
+  {
+    "id": 74,
+    "url": "https://www.baseball-reference.com/players/h/herreod01.shtml",
+    "player": "Od\u00c3\u00babel Herrera"
+  },
+  {
+    "id": 75,
+    "url": "https://www.baseball-reference.com/players/r/rendoan01.shtml",
+    "player": "Anthony Rendon"
+  },
+  {
+    "id": 76,
+    "url": "https://www.baseball-reference.com/players/c/crawfbr01.shtml",
+    "player": "Brandon Crawford"
+  },
+  {
+    "id": 77,
+    "url": "https://www.baseball-reference.com/players/p/profaju01.shtml",
+    "player": "Jurickson Profar"
+  },
+  {
+    "id": 78,
+    "url": "https://www.baseball-reference.com/players/s/smoakju01.shtml",
+    "player": "Justin Smoak"
+  },
+  {
+    "id": 79,
+    "url": "https://www.baseball-reference.com/players/r/rosaram01.shtml",
+    "player": "Amed Rosario"
+  },
+  {
+    "id": 80,
+    "url": "https://www.baseball-reference.com/players/r/rosared01.shtml",
+    "player": "Eddie Rosario"
+  },
+  {
+    "id": 81,
+    "url": "https://www.baseball-reference.com/players/c/cabreas01.shtml",
+    "player": "Asdr\u00c3\u00babal Cabrera"
+  },
+  {
+    "id": 82,
+    "url": "https://www.baseball-reference.com/players/c/cruzne02.shtml",
+    "player": "Nelson Cruz"
+  },
+  {
+    "id": 83,
+    "url": "https://www.baseball-reference.com/players/m/martijo08.shtml",
+    "player": "Jos\u00c3\u00a9 Mart\u00c3\u00adnez"
+  },
+  {
+    "id": 84,
+    "url": "https://www.baseball-reference.com/players/g/gordode01.shtml",
+    "player": "Dee Strange-Gordon"
+  },
+  {
+    "id": 85,
+    "url": "https://www.baseball-reference.com/players/s/shawtr01.shtml",
+    "player": "Travis Shaw"
+  },
+  {
+    "id": 86,
+    "url": "https://www.baseball-reference.com/players/j/jayjo02.shtml",
+    "player": "Jon Jay"
+  },
+  {
+    "id": 87,
+    "url": "https://www.baseball-reference.com/players/b/belljo02.shtml",
+    "player": "Josh Bell"
+  },
+  {
+    "id": 88,
+    "url": "https://www.baseball-reference.com/players/h/hicksaa01.shtml",
+    "player": "Aaron Hicks"
+  },
+  {
+    "id": 89,
+    "url": "https://www.baseball-reference.com/players/l/lemahdj01.shtml",
+    "player": "DJ LeMahieu"
+  },
+  {
+    "id": 90,
+    "url": "https://www.baseball-reference.com/players/b/bogaexa01.shtml",
+    "player": "Xander Bogaerts"
+  },
+  {
+    "id": 91,
+    "url": "https://www.baseball-reference.com/players/m/marteke01.shtml",
+    "player": "Ketel Marte"
+  },
+  {
+    "id": 92,
+    "url": "https://www.baseball-reference.com/players/e/encared01.shtml",
+    "player": "Edwin Encarnaci\u00c3\u00b3n"
+  },
+  {
+    "id": 93,
+    "url": "https://www.baseball-reference.com/players/g/gallojo01.shtml",
+    "player": "Joey Gallo"
+  },
+  {
+    "id": 94,
+    "url": "https://www.baseball-reference.com/players/a/alonsyo01.shtml",
+    "player": "Yonder Alonso"
+  },
+  {
+    "id": 95,
+    "url": "https://www.baseball-reference.com/players/g/gourryu01.shtml",
+    "player": "Yuli Gurriel"
+  },
+  {
+    "id": 96,
+    "url": "https://www.baseball-reference.com/players/p/phamth01.shtml",
+    "player": "Tommy Pham"
+  },
+  {
+    "id": 97,
+    "url": "https://www.baseball-reference.com/players/g/gregodi01.shtml",
+    "player": "Didi Gregorius"
+  },
+  {
+    "id": 98,
+    "url": "https://www.baseball-reference.com/players/g/gordoal01.shtml",
+    "player": "Alex Gordon"
+  },
+  {
+    "id": 99,
+    "url": "https://www.baseball-reference.com/players/a/aguilje01.shtml",
+    "player": "Jes\u00c3\u00bas Aguilar"
+  },
+  {
+    "id": 100,
+    "url": "https://www.baseball-reference.com/players/a/ahmedni01.shtml",
+    "player": "Nick Ahmed"
+  },
+  {
+    "id": 101,
+    "url": "https://www.baseball-reference.com/players/c/croncj01.shtml",
+    "player": "C.J. Cron"
+  },
+  {
+    "id": 102,
+    "url": "https://www.baseball-reference.com/players/d/duffyma01.shtml",
+    "player": "Matt Duffy"
+  },
+  {
+    "id": 103,
+    "url": "https://www.baseball-reference.com/players/h/hamilbi02.shtml",
+    "player": "Billy Hamilton"
+  },
+  {
+    "id": 104,
+    "url": "https://www.baseball-reference.com/players/a/abreujo02.shtml",
+    "player": "Jos\u00c3\u00a9 Abreu"
+  },
+  {
+    "id": 105,
+    "url": "https://www.baseball-reference.com/players/c/calhoko01.shtml",
+    "player": "Kole Calhoun"
+  },
+  {
+    "id": 106,
+    "url": "https://www.baseball-reference.com/players/g/gonzama01.shtml",
+    "player": "Marwin Gonz\u00c3\u00a1lez"
+  },
+  {
+    "id": 107,
+    "url": "https://www.baseball-reference.com/players/d/dietrde01.shtml",
+    "player": "Derek Dietrich"
+  },
+  {
+    "id": 108,
+    "url": "https://www.baseball-reference.com/players/w/wendljo01.shtml",
+    "player": "Joey Wendle"
+  },
+  {
+    "id": 109,
+    "url": "https://www.baseball-reference.com/players/c/contrwi01.shtml",
+    "player": "Willson Contreras"
+  },
+  {
+    "id": 110,
+    "url": "https://www.baseball-reference.com/players/p/perezsa02.shtml",
+    "player": "Salvador Perez"
+  },
+  {
+    "id": 111,
+    "url": "https://www.baseball-reference.com/players/s/smithma05.shtml",
+    "player": "Mallex Smith"
+  },
+  {
+    "id": 112,
+    "url": "https://www.baseball-reference.com/players/m/mauerjo01.shtml",
+    "player": "Joe Mauer"
+  },
+  {
+    "id": 113,
+    "url": "https://www.baseball-reference.com/players/p/pillake01.shtml",
+    "player": "Kevin Pillar"
+  },
+  {
+    "id": 114,
+    "url": "https://www.baseball-reference.com/players/m/mazarno01.shtml",
+    "player": "Nomar Mazara"
+  },
+  {
+    "id": 115,
+    "url": "https://www.baseball-reference.com/players/b/bradlja02.shtml",
+    "player": "Jackie Bradley Jr."
+  },
+  {
+    "id": 116,
+    "url": "https://www.baseball-reference.com/players/n/nimmobr01.shtml",
+    "player": "Brandon Nimmo"
+  },
+  {
+    "id": 117,
+    "url": "https://www.baseball-reference.com/players/o/odorro01.shtml",
+    "player": "Rougned Odor"
+  },
+  {
+    "id": 118,
+    "url": "https://www.baseball-reference.com/players/p/polangr01.shtml",
+    "player": "Gregory Polanco"
+  },
+  {
+    "id": 119,
+    "url": "https://www.baseball-reference.com/players/k/kinslia01.shtml",
+    "player": "Ian Kinsler"
+  },
+  {
+    "id": 120,
+    "url": "https://www.baseball-reference.com/players/d/dickeco01.shtml",
+    "player": "Corey Dickerson"
+  },
+  {
+    "id": 121,
+    "url": "https://www.baseball-reference.com/players/s/swansda01.shtml",
+    "player": "Dansby Swanson"
+  },
+  {
+    "id": 122,
+    "url": "https://www.baseball-reference.com/players/e/escobal02.shtml",
+    "player": "Alcides Escobar"
+  },
+  {
+    "id": 123,
+    "url": "https://www.baseball-reference.com/players/r/realmjt01.shtml",
+    "player": "J.T. Realmuto"
+  },
+  {
+    "id": 124,
+    "url": "https://www.baseball-reference.com/players/r/rojasmi02.shtml",
+    "player": "Miguel Rojas"
+  },
+  {
+    "id": 125,
+    "url": "https://www.baseball-reference.com/players/c/camarjo01.shtml",
+    "player": "Johan Camargo"
+  },
+  {
+    "id": 126,
+    "url": "https://www.baseball-reference.com/players/h/healyry01.shtml",
+    "player": "Ryon Healy"
+  },
+  {
+    "id": 127,
+    "url": "https://www.baseball-reference.com/players/h/hernate01.shtml",
+    "player": "Teoscar Hern\u00c3\u00a1ndez"
+  },
+  {
+    "id": 128,
+    "url": "https://www.baseball-reference.com/players/b/barnhtu01.shtml",
+    "player": "Tucker Barnhart"
+  },
+  {
+    "id": 129,
+    "url": "https://www.baseball-reference.com/players/d/davisch02.shtml",
+    "player": "Chris Davis"
+  },
+  {
+    "id": 130,
+    "url": "https://www.baseball-reference.com/players/z/zobribe01.shtml",
+    "player": "Ben Zobrist"
+  },
+  {
+    "id": 131,
+    "url": "https://www.baseball-reference.com/players/m/margoma01.shtml",
+    "player": "Manuel Margot"
+  },
+  {
+    "id": 132,
+    "url": "https://www.baseball-reference.com/players/g/grandya01.shtml",
+    "player": "Yasmani Grandal"
+  },
+  {
+    "id": 133,
+    "url": "https://www.baseball-reference.com/players/v/villajo01.shtml",
+    "player": "Jonathan Villar"
+  },
+  {
+    "id": 134,
+    "url": "https://www.baseball-reference.com/players/l/longoev01.shtml",
+    "player": "Evan Longoria"
+  },
+  {
+    "id": 135,
+    "url": "https://www.baseball-reference.com/players/s/schwaky01.shtml",
+    "player": "Kyle Schwarber"
+  },
+  {
+    "id": 136,
+    "url": "https://www.baseball-reference.com/players/m/martivi01.shtml",
+    "player": "Victor Martinez"
+  },
+  {
+    "id": 137,
+    "url": "https://www.baseball-reference.com/players/k/kempma01.shtml",
+    "player": "Matt Kemp"
+  },
+  {
+    "id": 138,
+    "url": "https://www.baseball-reference.com/players/s/solarya01.shtml",
+    "player": "Yangervis Solarte"
+  },
+  {
+    "id": 139,
+    "url": "https://www.baseball-reference.com/players/g/gonzaca01.shtml",
+    "player": "Carlos Gonz\u00c3\u00a1lez"
+  },
+  {
+    "id": 140,
+    "url": "https://www.baseball-reference.com/players/m/molinya01.shtml",
+    "player": "Yadier Molina"
+  },
+  {
+    "id": 141,
+    "url": "https://www.baseball-reference.com/players/n/nunezed02.shtml",
+    "player": "Eduardo N\u00c3\u00ba\u00c3\u00b1ez"
+  },
+  {
+    "id": 142,
+    "url": "https://www.baseball-reference.com/players/b/bourju01.shtml",
+    "player": "Justin Bour"
+  },
+  {
+    "id": 143,
+    "url": "https://www.baseball-reference.com/players/s/spande01.shtml",
+    "player": "Denard Span"
+  },
+  {
+    "id": 144,
+    "url": "https://www.baseball-reference.com/players/s/schoojo01.shtml",
+    "player": "Jonathan Schoop"
+  },
+  {
+    "id": 145,
+    "url": "https://www.baseball-reference.com/players/j/judgeaa01.shtml",
+    "player": "Aaron Judge"
+  },
+  {
+    "id": 146,
+    "url": "https://www.baseball-reference.com/players/p/pujolal01.shtml",
+    "player": "Albert Pujols"
+  },
+  {
+    "id": 147,
+    "url": "https://www.baseball-reference.com/players/d/davidma02.shtml",
+    "player": "Matt Davidson"
+  },
+  {
+    "id": 148,
+    "url": "https://www.baseball-reference.com/players/s/sotoju01.shtml",
+    "player": "Juan Soto"
+  },
+  {
+    "id": 149,
+    "url": "https://www.baseball-reference.com/players/g/goodrni01.shtml",
+    "player": "Niko Goodrum"
+  },
+  {
+    "id": 150,
+    "url": "https://www.baseball-reference.com/players/d/dejonpa01.shtml",
+    "player": "Paul DeJong"
+  },
+  {
+    "id": 151,
+    "url": "https://www.baseball-reference.com/players/d/deverra01.shtml",
+    "player": "Rafael Devers"
+  },
+  {
+    "id": 152,
+    "url": "https://www.baseball-reference.com/players/h/heywaja01.shtml",
+    "player": "Jason Heyward"
+  },
+  {
+    "id": 153,
+    "url": "https://www.baseball-reference.com/players/a/acunaro01.shtml",
+    "player": "Ronald Acu\u00c3\u00b1a Jr."
+  },
+  {
+    "id": 154,
+    "url": "https://www.baseball-reference.com/players/r/reddijo01.shtml",
+    "player": "Josh Reddick"
+  },
+  {
+    "id": 155,
+    "url": "https://www.baseball-reference.com/players/k/kingesc01.shtml",
+    "player": "Scott Kingery"
+  },
+  {
+    "id": 156,
+    "url": "https://www.baseball-reference.com/players/t/torregl01.shtml",
+    "player": "Gleyber Torres"
+  },
+  {
+    "id": 157,
+    "url": "https://www.baseball-reference.com/players/b/beltrad01.shtml",
+    "player": "Adrian Beltr\u00c3\u00a9"
+  },
+  {
+    "id": 158,
+    "url": "https://www.baseball-reference.com/players/m/muncyma01.shtml",
+    "player": "Max Muncy"
+  },
+  {
+    "id": 159,
+    "url": "https://www.baseball-reference.com/players/a/almoral01.shtml",
+    "player": "Albert Almora"
+  },
+  {
+    "id": 160,
+    "url": "https://www.baseball-reference.com/players/p/pireljo01.shtml",
+    "player": "Jos\u00c3\u00a9 Pirela"
+  },
+  {
+    "id": 161,
+    "url": "https://www.baseball-reference.com/players/f/frazito01.shtml",
+    "player": "Todd Frazier"
+  },
+  {
+    "id": 162,
+    "url": "https://www.baseball-reference.com/players/m/moralke01.shtml",
+    "player": "Kendrys Morales"
+  },
+  {
+    "id": 163,
+    "url": "https://www.baseball-reference.com/players/c/correca01.shtml",
+    "player": "Carlos Correa"
+  },
+  {
+    "id": 164,
+    "url": "https://www.baseball-reference.com/players/j/jonesja07.shtml",
+    "player": "JaCoby Jones"
+  },
+  {
+    "id": 165,
+    "url": "https://www.baseball-reference.com/players/f/francma02.shtml",
+    "player": "Maikel Franco"
+  },
+  {
+    "id": 166,
+    "url": "https://www.baseball-reference.com/players/g/grossro01.shtml",
+    "player": "Robbie Grossman"
+  },
+  {
+    "id": 167,
+    "url": "https://www.baseball-reference.com/players/m/moranco01.shtml",
+    "player": "Colin Moran"
+  },
+  {
+    "id": 168,
+    "url": "https://www.baseball-reference.com/players/r/russead02.shtml",
+    "player": "Addison Russell"
+  },
+  {
+    "id": 169,
+    "url": "https://www.baseball-reference.com/players/i/iglesjo01.shtml",
+    "player": "Jose Iglesias"
+  },
+  {
+    "id": 170,
+    "url": "https://www.baseball-reference.com/players/e/engelad01.shtml",
+    "player": "Adam Engel"
+  },
+  {
+    "id": 171,
+    "url": "https://www.baseball-reference.com/players/g/grichra01.shtml",
+    "player": "Randal Grichuk"
+  },
+  {
+    "id": 172,
+    "url": "https://www.baseball-reference.com/players/h/happia01.shtml",
+    "player": "Ian Happ"
+  },
+  {
+    "id": 173,
+    "url": "https://www.baseball-reference.com/players/h/hernaen02.shtml",
+    "player": "Kik\u00c3\u00a9 Hern\u00c3\u00a1ndez"
+  },
+  {
+    "id": 174,
+    "url": "https://www.baseball-reference.com/players/p/polloaj01.shtml",
+    "player": "AJ Pollock"
+  },
+  {
+    "id": 175,
+    "url": "https://www.baseball-reference.com/players/m/morelmi01.shtml",
+    "player": "Mitch Moreland"
+  },
+  {
+    "id": 176,
+    "url": "https://www.baseball-reference.com/players/b/bryankr01.shtml",
+    "player": "Kris Bryant"
+  },
+  {
+    "id": 177,
+    "url": "https://www.baseball-reference.com/players/m/mccanja02.shtml",
+    "player": "James McCann"
+  },
+  {
+    "id": 178,
+    "url": "https://www.baseball-reference.com/players/b/beltbr01.shtml",
+    "player": "Brandon Belt"
+  },
+  {
+    "id": 179,
+    "url": "https://www.baseball-reference.com/players/d/difowi01.shtml",
+    "player": "Wilmer Difo"
+  },
+  {
+    "id": 180,
+    "url": "https://www.baseball-reference.com/players/l/lucrojo01.shtml",
+    "player": "Jonathan Lucroy"
+  },
+  {
+    "id": 181,
+    "url": "https://www.baseball-reference.com/players/d/diazal02.shtml",
+    "player": "Aledmys D\u00c3\u00adaz"
+  },
+  {
+    "id": 182,
+    "url": "https://www.baseball-reference.com/players/g/gattiev01.shtml",
+    "player": "Evan Gattis"
+  },
+  {
+    "id": 183,
+    "url": "https://www.baseball-reference.com/players/h/hernago01.shtml",
+    "player": "Gorkys Hern\u00c3\u00a1ndez"
+  },
+  {
+    "id": 184,
+    "url": "https://www.baseball-reference.com/players/p/palkada01.shtml",
+    "player": "Daniel Palka"
+  },
+  {
+    "id": 185,
+    "url": "https://www.baseball-reference.com/players/p/poseybu01.shtml",
+    "player": "Buster Posey"
+  },
+  {
+    "id": 186,
+    "url": "https://www.baseball-reference.com/players/w/willini01.shtml",
+    "player": "Nick Williams"
+  },
+  {
+    "id": 187,
+    "url": "https://www.baseball-reference.com/players/b/braunry02.shtml",
+    "player": "Ryan Braun"
+  },
+  {
+    "id": 188,
+    "url": "https://www.baseball-reference.com/players/p/puigya01.shtml",
+    "player": "Yasiel Puig"
+  },
+  {
+    "id": 189,
+    "url": "https://www.baseball-reference.com/players/p/parrage01.shtml",
+    "player": "Gerardo Parra"
+  },
+  {
+    "id": 190,
+    "url": "https://www.baseball-reference.com/players/p/pederjo01.shtml",
+    "player": "Joc Pederson"
+  },
+  {
+    "id": 191,
+    "url": "https://www.baseball-reference.com/players/r/renfrhu01.shtml",
+    "player": "Hunter Renfroe"
+  },
+  {
+    "id": 192,
+    "url": "https://www.baseball-reference.com/players/m/mercejo03.shtml",
+    "player": "Jordy Mercer"
+  },
+  {
+    "id": 193,
+    "url": "https://www.baseball-reference.com/players/g/gomesya01.shtml",
+    "player": "Yan Gomes"
+  },
+  {
+    "id": 194,
+    "url": "https://www.baseball-reference.com/players/s/schebsc01.shtml",
+    "player": "Scott Schebler"
+  },
+  {
+    "id": 195,
+    "url": "https://www.baseball-reference.com/players/f/florewi01.shtml",
+    "player": "Wilmer Flores"
+  },
+  {
+    "id": 196,
+    "url": "https://www.baseball-reference.com/players/a/andruel01.shtml",
+    "player": "Elvis Andrus"
+  },
+  {
+    "id": 197,
+    "url": "https://www.baseball-reference.com/players/g/guzmaro01.shtml",
+    "player": "Ronald Guzm\u00c3\u00a1n"
+  },
+  {
+    "id": 198,
+    "url": "https://www.baseball-reference.com/players/b/baderha01.shtml",
+    "player": "Harrison Bader"
+  },
+  {
+    "id": 199,
+    "url": "https://www.baseball-reference.com/players/d/duvalad01.shtml",
+    "player": "Adam Duvall"
+  },
+  {
+    "id": 200,
+    "url": "https://www.baseball-reference.com/players/c/chiriro01.shtml",
+    "player": "Robinson Chirinos"
+  },
+  {
+    "id": 201,
+    "url": "https://www.baseball-reference.com/players/t/turneju01.shtml",
+    "player": "Justin Turner"
+  },
+  {
+    "id": 202,
+    "url": "https://www.baseball-reference.com/players/d/descada01.shtml",
+    "player": "Daniel Descalso"
+  },
+  {
+    "id": 203,
+    "url": "https://www.baseball-reference.com/players/r/ramoswi01.shtml",
+    "player": "Wilson Ramos"
+  },
+  {
+    "id": 204,
+    "url": "https://www.baseball-reference.com/players/f/forsylo01.shtml",
+    "player": "Logan Forsythe"
+  },
+  {
+    "id": 205,
+    "url": "https://www.baseball-reference.com/players/c/canhama01.shtml",
+    "player": "Mark Canha"
+  },
+  {
+    "id": 206,
+    "url": "https://www.baseball-reference.com/players/g/gomezca01.shtml",
+    "player": "Carlos G\u00c3\u00b3mez"
+  },
+  {
+    "id": 207,
+    "url": "https://www.baseball-reference.com/players/w/wongko01.shtml",
+    "player": "Kolten Wong"
+  },
+  {
+    "id": 208,
+    "url": "https://www.baseball-reference.com/players/b/brinsle01.shtml",
+    "player": "Lewis Brinson"
+  },
+  {
+    "id": 209,
+    "url": "https://www.baseball-reference.com/players/z/zuninmi01.shtml",
+    "player": "Mike Zunino"
+  },
+  {
+    "id": 210,
+    "url": "https://www.baseball-reference.com/players/c/cervefr01.shtml",
+    "player": "Francisco Cervelli"
+  },
+  {
+    "id": 211,
+    "url": "https://www.baseball-reference.com/players/m/maldoma01.shtml",
+    "player": "Mart\u00c3\u00adn Maldonado"
+  },
+  {
+    "id": 212,
+    "url": "https://www.baseball-reference.com/players/g/grandcu01.shtml",
+    "player": "Curtis Granderson"
+  },
+  {
+    "id": 213,
+    "url": "https://www.baseball-reference.com/players/b/beckhti01.shtml",
+    "player": "Tim Beckham"
+  },
+  {
+    "id": 214,
+    "url": "https://www.baseball-reference.com/players/g/gyorkje01.shtml",
+    "player": "Jedd Gyorko"
+  },
+  {
+    "id": 215,
+    "url": "https://www.baseball-reference.com/players/b/bautijo02.shtml",
+    "player": "Jos\u00c3\u00a9 Bautista"
+  },
+  {
+    "id": 216,
+    "url": "https://www.baseball-reference.com/players/w/walkene01.shtml",
+    "player": "Neil Walker"
+  },
+  {
+    "id": 217,
+    "url": "https://www.baseball-reference.com/players/k/kineris01.shtml",
+    "player": "Isiah Kiner-Falefa"
+  },
+  {
+    "id": 218,
+    "url": "https://www.baseball-reference.com/players/d/deshide02.shtml",
+    "player": "Delino DeShields"
+  },
+  {
+    "id": 219,
+    "url": "https://www.baseball-reference.com/players/p/panikjo01.shtml",
+    "player": "Joe Panik"
+  },
+  {
+    "id": 220,
+    "url": "https://www.baseball-reference.com/players/b/bauerja01.shtml",
+    "player": "Jake Bauers"
+  },
+  {
+    "id": 221,
+    "url": "https://www.baseball-reference.com/players/d/doziehu01.shtml",
+    "player": "Hunter Dozier"
+  },
+  {
+    "id": 222,
+    "url": "https://www.baseball-reference.com/players/s/suzukku01.shtml",
+    "player": "Kurt Suzuki"
+  },
+  {
+    "id": 223,
+    "url": "https://www.baseball-reference.com/players/j/jankotr01.shtml",
+    "player": "Travis Jankowski"
+  },
+  {
+    "id": 224,
+    "url": "https://www.baseball-reference.com/players/g/garciav01.shtml",
+    "player": "Avisa\u00c3\u00adl Garc\u00c3\u00ada"
+  },
+  {
+    "id": 225,
+    "url": "https://www.baseball-reference.com/players/t/taylomi02.shtml",
+    "player": "Michael A. Taylor"
+  },
+  {
+    "id": 226,
+    "url": "https://www.baseball-reference.com/players/v/villach01.shtml",
+    "player": "Christian Villanueva"
+  },
+  {
+    "id": 227,
+    "url": "https://www.baseball-reference.com/players/m/maybica01.shtml",
+    "player": "Cameron Maybin"
+  },
+  {
+    "id": 228,
+    "url": "https://www.baseball-reference.com/players/t/travide01.shtml",
+    "player": "Devon Travis"
+  },
+  {
+    "id": 229,
+    "url": "https://www.baseball-reference.com/players/a/alfarjo01.shtml",
+    "player": "Jorge Alfaro"
+  },
+  {
+    "id": 230,
+    "url": "https://www.baseball-reference.com/players/j/jacksau01.shtml",
+    "player": "Austin Jackson"
+  },
+  {
+    "id": 231,
+    "url": "https://www.baseball-reference.com/players/h/harrijo05.shtml",
+    "player": "Josh Harrison"
+  },
+  {
+    "id": 232,
+    "url": "https://www.baseball-reference.com/players/s/sanchga02.shtml",
+    "player": "Gary S\u00c3\u00a1nchez"
+  },
+  {
+    "id": 233,
+    "url": "https://www.baseball-reference.com/players/e/eatonad02.shtml",
+    "player": "Adam Eaton"
+  },
+  {
+    "id": 234,
+    "url": "https://www.baseball-reference.com/players/h/holtbr01.shtml",
+    "player": "Brock Holt"
+  },
+  {
+    "id": 235,
+    "url": "https://www.baseball-reference.com/players/k/kiermke01.shtml",
+    "player": "Kevin Kiermaier"
+  },
+  {
+    "id": 236,
+    "url": "https://www.baseball-reference.com/players/o/ohtansh01.shtml",
+    "player": "Shohei Ohtani"
+  },
+  {
+    "id": 237,
+    "url": "https://www.baseball-reference.com/players/d/dudalu01.shtml",
+    "player": "Lucas Duda"
+  },
+  {
+    "id": 238,
+    "url": "https://www.baseball-reference.com/players/a/adriaeh01.shtml",
+    "player": "Ehire Adrianza"
+  },
+  {
+    "id": 239,
+    "url": "https://www.baseball-reference.com/players/a/arciaor01.shtml",
+    "player": "Orlando Arcia"
+  },
+  {
+    "id": 240,
+    "url": "https://www.baseball-reference.com/players/b/bruceja01.shtml",
+    "player": "Jay Bruce"
+  },
+  {
+    "id": 241,
+    "url": "https://www.baseball-reference.com/players/i/iannech01.shtml",
+    "player": "Chris Iannetta"
+  },
+  {
+    "id": 242,
+    "url": "https://www.baseball-reference.com/players/m/morrilo01.shtml",
+    "player": "Logan Morrison"
+  },
+  {
+    "id": 243,
+    "url": "https://www.baseball-reference.com/players/t/trumbma01.shtml",
+    "player": "Mark Trumbo"
+  },
+  {
+    "id": 244,
+    "url": "https://www.baseball-reference.com/players/m/martile01.shtml",
+    "player": "Leonys Mart\u00c3\u00adn"
+  },
+  {
+    "id": 245,
+    "url": "https://www.baseball-reference.com/players/f/fraziad01.shtml",
+    "player": "Adam Frazier"
+  },
+  {
+    "id": 246,
+    "url": "https://www.baseball-reference.com/players/m/martiru01.shtml",
+    "player": "Russell Martin"
+  },
+  {
+    "id": 247,
+    "url": "https://www.baseball-reference.com/players/m/murphda08.shtml",
+    "player": "Daniel Murphy"
+  },
+  {
+    "id": 248,
+    "url": "https://www.baseball-reference.com/players/c/canoro01.shtml",
+    "player": "Robinson Can\u00c3\u00b3"
+  },
+  {
+    "id": 249,
+    "url": "https://www.baseball-reference.com/players/m/myerswi01.shtml",
+    "player": "Wil Myers"
+  },
+  {
+    "id": 250,
+    "url": "https://www.baseball-reference.com/players/r/roberda10.shtml",
+    "player": "Daniel Robertson"
+  },
+  {
+    "id": 251,
+    "url": "https://www.baseball-reference.com/players/h/heredgu01.shtml",
+    "player": "Guillermo Heredia"
+  },
+  {
+    "id": 252,
+    "url": "https://www.baseball-reference.com/players/p/pinama01.shtml",
+    "player": "Manny Pi\u00c3\u00b1a"
+  },
+  {
+    "id": 253,
+    "url": "https://www.baseball-reference.com/players/a/adamsma01.shtml",
+    "player": "Matt Adams"
+  },
+  {
+    "id": 254,
+    "url": "https://www.baseball-reference.com/players/g/garvemi01.shtml",
+    "player": "Mitch Garver"
+  },
+  {
+    "id": 255,
+    "url": "https://www.baseball-reference.com/players/f/fowlede01.shtml",
+    "player": "Dexter Fowler"
+  },
+  {
+    "id": 256,
+    "url": "https://www.baseball-reference.com/players/p/perezhe01.shtml",
+    "player": "Hern\u00c3\u00a1n P\u00c3\u00a9rez"
+  },
+  {
+    "id": 257,
+    "url": "https://www.baseball-reference.com/players/w/winkeje01.shtml",
+    "player": "Jesse Winker"
+  },
+  {
+    "id": 258,
+    "url": "https://www.baseball-reference.com/players/p/pindech01.shtml",
+    "player": "Chad Pinder"
+  },
+  {
+    "id": 259,
+    "url": "https://www.baseball-reference.com/players/p/polanjo01.shtml",
+    "player": "Jorge Polanco"
+  },
+  {
+    "id": 260,
+    "url": "https://www.baseball-reference.com/players/r/riddljt01.shtml",
+    "player": "JT Riddle"
+  },
+  {
+    "id": 261,
+    "url": "https://www.baseball-reference.com/players/m/munozya01.shtml",
+    "player": "Yairo Mu\u00c3\u00b1oz"
+  },
+  {
+    "id": 262,
+    "url": "https://www.baseball-reference.com/players/s/spangco01.shtml",
+    "player": "Cory Spangenberg"
+  },
+  {
+    "id": 263,
+    "url": "https://www.baseball-reference.com/players/h/hedgeau01.shtml",
+    "player": "Austin Hedges"
+  },
+  {
+    "id": 264,
+    "url": "https://www.baseball-reference.com/players/a/adamewi01.shtml",
+    "player": "Willy Adames"
+  },
+  {
+    "id": 265,
+    "url": "https://www.baseball-reference.com/players/z/zimmery01.shtml",
+    "player": "Ryan Zimmerman"
+  },
+  {
+    "id": 266,
+    "url": "https://www.baseball-reference.com/players/c/culbech01.shtml",
+    "player": "Charlie Culberson"
+  },
+  {
+    "id": 267,
+    "url": "https://www.baseball-reference.com/players/n/narvaom01.shtml",
+    "player": "Omar Narv\u00c3\u00a1ez"
+  },
+  {
+    "id": 268,
+    "url": "https://www.baseball-reference.com/players/h/hechaad01.shtml",
+    "player": "Adeiny Hechavarr\u00c3\u00ada"
+  },
+  {
+    "id": 269,
+    "url": "https://www.baseball-reference.com/players/d/delmoni01.shtml",
+    "player": "Nicky Delmonico"
+  },
+  {
+    "id": 270,
+    "url": "https://www.baseball-reference.com/players/h/hicksjo02.shtml",
+    "player": "John Hicks"
+  },
+  {
+    "id": 271,
+    "url": "https://www.baseball-reference.com/players/f/freesda01.shtml",
+    "player": "David Freese"
+  },
+  {
+    "id": 272,
+    "url": "https://www.baseball-reference.com/players/b/birdgr01.shtml",
+    "player": "Greg Bird"
+  },
+  {
+    "id": 273,
+    "url": "https://www.baseball-reference.com/players/h/hansoal01.shtml",
+    "player": "Alen Hanson"
+  },
+  {
+    "id": 274,
+    "url": "https://www.baseball-reference.com/players/c/caveja01.shtml",
+    "player": "Jake Cave"
+  },
+  {
+    "id": 275,
+    "url": "https://www.baseball-reference.com/players/o/owingch01.shtml",
+    "player": "Chris Owings"
+  },
+  {
+    "id": 276,
+    "url": "https://www.baseball-reference.com/players/f/fletcda02.shtml",
+    "player": "David Fletcher"
+  },
+  {
+    "id": 277,
+    "url": "https://www.baseball-reference.com/players/h/hundlni01.shtml",
+    "player": "Nick Hundley"
+  },
+  {
+    "id": 278,
+    "url": "https://www.baseball-reference.com/players/h/herrero02.shtml",
+    "player": "Rosell Herrera"
+  },
+  {
+    "id": 279,
+    "url": "https://www.baseball-reference.com/players/s/sanomi01.shtml",
+    "player": "Miguel San\u00c3\u00b3"
+  },
+  {
+    "id": 280,
+    "url": "https://www.baseball-reference.com/players/f/flowety01.shtml",
+    "player": "Tyler Flowers"
+  },
+  {
+    "id": 281,
+    "url": "https://www.baseball-reference.com/players/k/kempto01.shtml",
+    "player": "Tony Kemp"
+  },
+  {
+    "id": 282,
+    "url": "https://www.baseball-reference.com/players/g/gamelbe01.shtml",
+    "player": "Ben Gamel"
+  },
+  {
+    "id": 283,
+    "url": "https://www.baseball-reference.com/players/a/allengr01.shtml",
+    "player": "Greg Allen"
+  },
+  {
+    "id": 284,
+    "url": "https://www.baseball-reference.com/players/m/mondera02.shtml",
+    "player": "Adalberto Mondes\u00c3\u00ad"
+  },
+  {
+    "id": 285,
+    "url": "https://www.baseball-reference.com/players/l/leonsa01.shtml",
+    "player": "Sandy Le\u00c3\u00b3n"
+  },
+  {
+    "id": 286,
+    "url": "https://www.baseball-reference.com/players/v/valbulu01.shtml",
+    "player": "Luis Valbuena"
+  },
+  {
+    "id": 287,
+    "url": "https://www.baseball-reference.com/players/a/altheaa01.shtml",
+    "player": "Aaron Altherr"
+  },
+  {
+    "id": 288,
+    "url": "https://www.baseball-reference.com/players/r/reyesfr01.shtml",
+    "player": "Franmil Reyes"
+  },
+  {
+    "id": 289,
+    "url": "https://www.baseball-reference.com/players/v/valenda01.shtml",
+    "player": "Danny Valencia"
+  },
+  {
+    "id": 290,
+    "url": "https://www.baseball-reference.com/players/j/josepca01.shtml",
+    "player": "Caleb Joseph"
+  },
+  {
+    "id": 291,
+    "url": "https://www.baseball-reference.com/players/c/cabreme01.shtml",
+    "player": "Melky Cabrera"
+  },
+  {
+    "id": 292,
+    "url": "https://www.baseball-reference.com/players/t/thameer01.shtml",
+    "player": "Eric Thames"
+  },
+  {
+    "id": 293,
+    "url": "https://www.baseball-reference.com/players/d/diazel01.shtml",
+    "player": "Elias D\u00c3\u00adaz"
+  },
+  {
+    "id": 294,
+    "url": "https://www.baseball-reference.com/players/p/plaweke01.shtml",
+    "player": "Kevin Plawecki"
+  },
+  {
+    "id": 295,
+    "url": "https://www.baseball-reference.com/players/g/garcile02.shtml",
+    "player": "Leury Garc\u00c3\u00ada"
+  },
+  {
+    "id": 296,
+    "url": "https://www.baseball-reference.com/players/m/mesorde01.shtml",
+    "player": "Devin Mesoraco"
+  },
+  {
+    "id": 297,
+    "url": "https://www.baseball-reference.com/players/s/souzast01.shtml",
+    "player": "Steven Souza Jr."
+  },
+  {
+    "id": 298,
+    "url": "https://www.baseball-reference.com/players/d/dahlda01.shtml",
+    "player": "David Dahl"
+  },
+  {
+    "id": 299,
+    "url": "https://www.baseball-reference.com/players/w/wietema01.shtml",
+    "player": "Matt Wieters"
+  },
+  {
+    "id": 300,
+    "url": "https://www.baseball-reference.com/players/b/bonifjo01.shtml",
+    "player": "Jorge Bonifacio"
+  },
+  {
+    "id": 301,
+    "url": "https://www.baseball-reference.com/players/v/vazquch01.shtml",
+    "player": "Christian V\u00c3\u00a1zquez"
+  },
+  {
+    "id": 302,
+    "url": "https://www.baseball-reference.com/players/a/austity01.shtml",
+    "player": "Tyler Austin"
+  },
+  {
+    "id": 303,
+    "url": "https://www.baseball-reference.com/players/r/rominau01.shtml",
+    "player": "Austin Romine"
+  },
+  {
+    "id": 304,
+    "url": "https://www.baseball-reference.com/players/g/gurrilo01.shtml",
+    "player": "Lourdes Gurriel Jr."
+  },
+  {
+    "id": 305,
+    "url": "https://www.baseball-reference.com/players/n/nunezre01.shtml",
+    "player": "Renato N\u00c3\u00ba\u00c3\u00b1ez"
+  },
+  {
+    "id": 306,
+    "url": "https://www.baseball-reference.com/players/s/solerjo01.shtml",
+    "player": "Jorge Soler"
+  },
+  {
+    "id": 307,
+    "url": "https://www.baseball-reference.com/players/m/millebr02.shtml",
+    "player": "Brad Miller"
+  },
+  {
+    "id": 308,
+    "url": "https://www.baseball-reference.com/players/c/cozarza01.shtml",
+    "player": "Zack Cozart"
+  },
+  {
+    "id": 309,
+    "url": "https://www.baseball-reference.com/players/s/sandopa01.shtml",
+    "player": "Pablo Sandoval"
+  },
+  {
+    "id": 310,
+    "url": "https://www.baseball-reference.com/players/r/reyesjo01.shtml",
+    "player": "Jos\u00c3\u00a9 Reyes"
+  },
+  {
+    "id": 311,
+    "url": "https://www.baseball-reference.com/players/p/pearcst01.shtml",
+    "player": "Steve Pearce"
+  },
+  {
+    "id": 312,
+    "url": "https://www.baseball-reference.com/players/m/mahtomi01.shtml",
+    "player": "Mikie Mahtook"
+  },
+  {
+    "id": 313,
+    "url": "https://www.baseball-reference.com/players/s/stassma01.shtml",
+    "player": "Max Stassi"
+  },
+  {
+    "id": 314,
+    "url": "https://www.baseball-reference.com/players/m/mcneije01.shtml",
+    "player": "Jeff McNeil"
+  },
+  {
+    "id": 315,
+    "url": "https://www.baseball-reference.com/players/p/pencehu01.shtml",
+    "player": "Hunter Pence"
+  },
+  {
+    "id": 316,
+    "url": "https://www.baseball-reference.com/players/e/ervinph01.shtml",
+    "player": "Phil Ervin"
+  },
+  {
+    "id": 317,
+    "url": "https://www.baseball-reference.com/players/j/joycema01.shtml",
+    "player": "Matt Joyce"
+  },
+  {
+    "id": 318,
+    "url": "https://www.baseball-reference.com/players/p/peterja01.shtml",
+    "player": "Jace Peterson"
+  },
+  {
+    "id": 319,
+    "url": "https://www.baseball-reference.com/players/b/barneau01.shtml",
+    "player": "Austin Barnes"
+  },
+  {
+    "id": 320,
+    "url": "https://www.baseball-reference.com/players/l/lambja01.shtml",
+    "player": "Jake Lamb"
+  },
+  {
+    "id": 321,
+    "url": "https://www.baseball-reference.com/players/d/dysonja01.shtml",
+    "player": "Jarrod Dyson"
+  },
+  {
+    "id": 322,
+    "url": "https://www.baseball-reference.com/players/w/whitety01.shtml",
+    "player": "Tyler White"
+  },
+  {
+    "id": 323,
+    "url": "https://www.baseball-reference.com/players/m/marisja01.shtml",
+    "player": "Jake Marisnick"
+  },
+  {
+    "id": 324,
+    "url": "https://www.baseball-reference.com/players/r/reynoma01.shtml",
+    "player": "Mark Reynolds"
+  },
+  {
+    "id": 325,
+    "url": "https://www.baseball-reference.com/players/s/santado01.shtml",
+    "player": "Domingo Santana"
+  },
+  {
+    "id": 326,
+    "url": "https://www.baseball-reference.com/players/a/avilaal01.shtml",
+    "player": "Alex Avila"
+  },
+  {
+    "id": 327,
+    "url": "https://www.baseball-reference.com/players/m/machadi01.shtml",
+    "player": "Dixon Machado"
+  },
+  {
+    "id": 328,
+    "url": "https://www.baseball-reference.com/players/f/fieldjo04.shtml",
+    "player": "Johnny Field"
+  },
+  {
+    "id": 329,
+    "url": "https://www.baseball-reference.com/players/m/mailelu01.shtml",
+    "player": "Luke Maile"
+  },
+  {
+    "id": 330,
+    "url": "https://www.baseball-reference.com/players/r/rickajo01.shtml",
+    "player": "Joey Rickard"
+  },
+  {
+    "id": 331,
+    "url": "https://www.baseball-reference.com/players/s/slateau01.shtml",
+    "player": "Austin Slater"
+  },
+  {
+    "id": 332,
+    "url": "https://www.baseball-reference.com/players/m/murphjr01.shtml",
+    "player": "John Ryan Murphy"
+  },
+  {
+    "id": 333,
+    "url": "https://www.baseball-reference.com/players/g/guyerbr01.shtml",
+    "player": "Brandon Guyer"
+  },
+  {
+    "id": 334,
+    "url": "https://www.baseball-reference.com/players/c/choiji01.shtml",
+    "player": "Jiman Choi"
+  },
+  {
+    "id": 335,
+    "url": "https://www.baseball-reference.com/players/k/kratzer01.shtml",
+    "player": "Erik Kratz"
+  },
+  {
+    "id": 336,
+    "url": "https://www.baseball-reference.com/players/r/reyesvi01.shtml",
+    "player": "V\u00c3\u00adctor Reyes"
+  },
+  {
+    "id": 337,
+    "url": "https://www.baseball-reference.com/players/d/donaljo02.shtml",
+    "player": "Josh Donaldson"
+  },
+  {
+    "id": 338,
+    "url": "https://www.baseball-reference.com/players/a/asuajca01.shtml",
+    "player": "Carlos Asuaje"
+  },
+  {
+    "id": 339,
+    "url": "https://www.baseball-reference.com/players/m/mathije01.shtml",
+    "player": "Jeff Mathis"
+  },
+  {
+    "id": 340,
+    "url": "https://www.baseball-reference.com/players/d/davisra01.shtml",
+    "player": "Rajai Davis"
+  },
+  {
+    "id": 341,
+    "url": "https://www.baseball-reference.com/players/m/mccanbr01.shtml",
+    "player": "Brian McCann"
+  },
+  {
+    "id": 342,
+    "url": "https://www.baseball-reference.com/players/w/wolteto01.shtml",
+    "player": "Tony Wolters"
+  },
+  {
+    "id": 343,
+    "url": "https://www.baseball-reference.com/players/k/knappan01.shtml",
+    "player": "Andrew Knapp"
+  },
+  {
+    "id": 344,
+    "url": "https://www.baseball-reference.com/players/s/severpe01.shtml",
+    "player": "Pedro Severino"
+  },
+  {
+    "id": 345,
+    "url": "https://www.baseball-reference.com/players/b/boteda01.shtml",
+    "player": "David Bote"
+  },
+  {
+    "id": 346,
+    "url": "https://www.baseball-reference.com/players/p/perezro02.shtml",
+    "player": "Roberto P\u00c3\u00a9rez"
+  },
+  {
+    "id": 347,
+    "url": "https://www.baseball-reference.com/players/m/marteje01.shtml",
+    "player": "Jefry Mart\u00c3\u00a9"
+  },
+  {
+    "id": 348,
+    "url": "https://www.baseball-reference.com/players/p/pradoma01.shtml",
+    "player": "Mart\u00c3\u00adn Prado"
+  },
+  {
+    "id": 349,
+    "url": "https://www.baseball-reference.com/players/g/garcigr01.shtml",
+    "player": "Greg Garcia"
+  },
+  {
+    "id": 350,
+    "url": "https://www.baseball-reference.com/players/s/swihabl01.shtml",
+    "player": "Blake Swihart"
+  },
+  {
+    "id": 351,
+    "url": "https://www.baseball-reference.com/players/r/rodriro03.shtml",
+    "player": "Ronny Rodr\u00c3\u00adguez"
+  },
+  {
+    "id": 352,
+    "url": "https://www.baseball-reference.com/players/b/blancgr01.shtml",
+    "player": "Gr\u00c3\u00a9gor Blanco"
+  },
+  {
+    "id": 353,
+    "url": "https://www.baseball-reference.com/players/f/fowledu01.shtml",
+    "player": "Dustin Fowler"
+  },
+  {
+    "id": 354,
+    "url": "https://www.baseball-reference.com/players/m/mcmahry01.shtml",
+    "player": "Ryan McMahon"
+  },
+  {
+    "id": 355,
+    "url": "https://www.baseball-reference.com/players/c/caratvi01.shtml",
+    "player": "Victor Caratini"
+  },
+  {
+    "id": 356,
+    "url": "https://www.baseball-reference.com/players/s/sucreje01.shtml",
+    "player": "Jes\u00c3\u00bas Sucre"
+  },
+  {
+    "id": 357,
+    "url": "https://www.baseball-reference.com/players/r/ramirha01.shtml",
+    "player": "Hanley Ram\u00c3\u00adrez"
+  },
+  {
+    "id": 358,
+    "url": "https://www.baseball-reference.com/players/l/lasteto01.shtml",
+    "player": "Tommy La Stella"
+  },
+  {
+    "id": 359,
+    "url": "https://www.baseball-reference.com/players/m/mullice01.shtml",
+    "player": "Cedric Mullins"
+  },
+  {
+    "id": 360,
+    "url": "https://www.baseball-reference.com/players/m/meadoau01.shtml",
+    "player": "Austin Meadows"
+  },
+  {
+    "id": 361,
+    "url": "https://www.baseball-reference.com/players/g/gonzaad01.shtml",
+    "player": "Adri\u00c3\u00a1n Gonz\u00c3\u00a1lez"
+  },
+  {
+    "id": 362,
+    "url": "https://www.baseball-reference.com/players/s/smithke04.shtml",
+    "player": "Kevan Smith"
+  },
+  {
+    "id": 363,
+    "url": "https://www.baseball-reference.com/players/u/utleych01.shtml",
+    "player": "Chase Utley"
+  },
+  {
+    "id": 364,
+    "url": "https://www.baseball-reference.com/players/a/adducji02.shtml",
+    "player": "Jim Adduci"
+  },
+  {
+    "id": 365,
+    "url": "https://www.baseball-reference.com/players/s/siscoch01.shtml",
+    "player": "Chance Sisco"
+  },
+  {
+    "id": 366,
+    "url": "https://www.baseball-reference.com/players/t/tuckepr01.shtml",
+    "player": "Preston Tucker"
+  },
+  {
+    "id": 367,
+    "url": "https://www.baseball-reference.com/players/e/ellisaj01.shtml",
+    "player": "A.J. Ellis"
+  },
+  {
+    "id": 368,
+    "url": "https://www.baseball-reference.com/players/n/naquity01.shtml",
+    "player": "Tyler Naquin"
+  },
+  {
+    "id": 369,
+    "url": "https://www.baseball-reference.com/players/f/flahery01.shtml",
+    "player": "Ryan Flaherty"
+  },
+  {
+    "id": 370,
+    "url": "https://www.baseball-reference.com/players/b/buterdr01.shtml",
+    "player": "Drew Butera"
+  },
+  {
+    "id": 371,
+    "url": "https://www.baseball-reference.com/players/c/castiwe01.shtml",
+    "player": "Welington Castillo"
+  },
+  {
+    "id": 372,
+    "url": "https://www.baseball-reference.com/players/l/lamarry01.shtml",
+    "player": "Ryan LaMarre"
+  },
+  {
+    "id": 373,
+    "url": "https://www.baseball-reference.com/players/g/goodwbr01.shtml",
+    "player": "Brian Goodwin"
+  },
+  {
+    "id": 374,
+    "url": "https://www.baseball-reference.com/players/m/martini02.shtml",
+    "player": "Nick Martini"
+  },
+  {
+    "id": 375,
+    "url": "https://www.baseball-reference.com/players/l/laurera01.shtml",
+    "player": "Ram\u00c3\u00b3n Laureano"
+  },
+  {
+    "id": 376,
+    "url": "https://www.baseball-reference.com/players/r/rodrise01.shtml",
+    "player": "Sean Rodr\u00c3\u00adguez"
+  },
+  {
+    "id": 377,
+    "url": "https://www.baseball-reference.com/players/o/ohearry01.shtml",
+    "player": "Ryan O'Hearn"
+  },
+  {
+    "id": 378,
+    "url": "https://www.baseball-reference.com/players/g/gentrcr01.shtml",
+    "player": "Craig Gentry"
+  },
+  {
+    "id": 379,
+    "url": "https://www.baseball-reference.com/players/h/holadbr01.shtml",
+    "player": "Bryan Holaday"
+  },
+  {
+    "id": 380,
+    "url": "https://www.baseball-reference.com/players/v/voitlu01.shtml",
+    "player": "Luke Voit"
+  },
+  {
+    "id": 381,
+    "url": "https://www.baseball-reference.com/players/k/kendrho01.shtml",
+    "player": "Howie Kendrick"
+  },
+  {
+    "id": 382,
+    "url": "https://www.baseball-reference.com/players/r/riverya01.shtml",
+    "player": "Yadiel Rivera"
+  },
+  {
+    "id": 383,
+    "url": "https://www.baseball-reference.com/players/c/cabremi01.shtml",
+    "player": "Miguel Cabrera"
+  },
+  {
+    "id": 384,
+    "url": "https://www.baseball-reference.com/players/c/cespeyo01.shtml",
+    "player": "Yoenis C\u00c3\u00a9spedes"
+  },
+  {
+    "id": 385,
+    "url": "https://www.baseball-reference.com/players/c/casalcu01.shtml",
+    "player": "Curt Casali"
+  },
+  {
+    "id": 386,
+    "url": "https://www.baseball-reference.com/players/s/sierrma01.shtml",
+    "player": "Magneuris Sierra"
+  },
+  {
+    "id": 387,
+    "url": "https://www.baseball-reference.com/players/c/cordefr02.shtml",
+    "player": "Franchy Cordero"
+  },
+  {
+    "id": 388,
+    "url": "https://www.baseball-reference.com/players/c/cuevano01.shtml",
+    "player": "Noel Cuevas"
+  },
+  {
+    "id": 389,
+    "url": "https://www.baseball-reference.com/players/d/duggast01.shtml",
+    "player": "Steven Duggar"
+  },
+  {
+    "id": 390,
+    "url": "https://www.baseball-reference.com/players/t/tomlike01.shtml",
+    "player": "Kelby Tomlinson"
+  },
+  {
+    "id": 391,
+    "url": "https://www.baseball-reference.com/players/a/almonab01.shtml",
+    "player": "Abraham Almonte"
+  },
+  {
+    "id": 392,
+    "url": "https://www.baseball-reference.com/players/w/wilsobo02.shtml",
+    "player": "Bobby Wilson"
+  },
+  {
+    "id": 393,
+    "url": "https://www.baseball-reference.com/players/s/smithdo02.shtml",
+    "player": "Dominic Smith"
+  },
+  {
+    "id": 394,
+    "url": "https://www.baseball-reference.com/players/l/lowebr01.shtml",
+    "player": "Brandon Lowe"
+  },
+  {
+    "id": 395,
+    "url": "https://www.baseball-reference.com/players/b/blandal01.shtml",
+    "player": "Alex Blandino"
+  },
+  {
+    "id": 396,
+    "url": "https://www.baseball-reference.com/players/r/ruary01.shtml",
+    "player": "Ryan Rua"
+  },
+  {
+    "id": 397,
+    "url": "https://www.baseball-reference.com/players/w/wardta01.shtml",
+    "player": "Taylor Ward"
+  },
+  {
+    "id": 398,
+    "url": "https://www.baseball-reference.com/players/p/phillbr02.shtml",
+    "player": "Brett Phillips"
+  },
+  {
+    "id": 399,
+    "url": "https://www.baseball-reference.com/players/g/gonzaer01.shtml",
+    "player": "Erik Gonz\u00c3\u00a1lez"
+  },
+  {
+    "id": 400,
+    "url": "https://www.baseball-reference.com/players/k/kiebosp01.shtml",
+    "player": "Spencer Kieboom"
+  },
+  {
+    "id": 401,
+    "url": "https://www.baseball-reference.com/players/o/ortegra01.shtml",
+    "player": "Rafael Ortega"
+  },
+  {
+    "id": 402,
+    "url": "https://www.baseball-reference.com/players/q/quinnro01.shtml",
+    "player": "Roman Quinn"
+  },
+  {
+    "id": 403,
+    "url": "https://www.baseball-reference.com/players/o/oneilty01.shtml",
+    "player": "Tyler O'Neill"
+  },
+  {
+    "id": 404,
+    "url": "https://www.baseball-reference.com/players/p/penafr01.shtml",
+    "player": "Francisco Pe\u00c3\u00b1a"
+  },
+  {
+    "id": 405,
+    "url": "https://www.baseball-reference.com/players/s/shuckja01.shtml",
+    "player": "JB Shuck"
+  },
+  {
+    "id": 406,
+    "url": "https://www.baseball-reference.com/players/s/saladty01.shtml",
+    "player": "Tyler Saladino"
+  },
+  {
+    "id": 407,
+    "url": "https://www.baseball-reference.com/players/c/crawfjp01.shtml",
+    "player": "J.P. Crawford"
+  },
+  {
+    "id": 408,
+    "url": "https://www.baseball-reference.com/players/t/thomptr01.shtml",
+    "player": "Trayce Thompson"
+  },
+  {
+    "id": 409,
+    "url": "https://www.baseball-reference.com/players/t/toccica01.shtml",
+    "player": "Carlos Tocci"
+  },
+  {
+    "id": 410,
+    "url": "https://www.baseball-reference.com/players/v/valaipa01.shtml",
+    "player": "Pat Valaika"
+  },
+  {
+    "id": 411,
+    "url": "https://www.baseball-reference.com/players/w/willima10.shtml",
+    "player": "Mason Williams"
+  },
+  {
+    "id": 412,
+    "url": "https://www.baseball-reference.com/players/m/mckinbi01.shtml",
+    "player": "Billy McKinney"
+  },
+  {
+    "id": 413,
+    "url": "https://www.baseball-reference.com/players/r/rominan01.shtml",
+    "player": "Andrew Romine"
+  },
+  {
+    "id": 414,
+    "url": "https://www.baseball-reference.com/players/b/bricejo01.shtml",
+    "player": "Jos\u00c3\u00a9 Brice\u00c3\u00b1o"
+  },
+  {
+    "id": 415,
+    "url": "https://www.baseball-reference.com/players/y/youngch04.shtml",
+    "player": "Chris Young"
+  },
+  {
+    "id": 416,
+    "url": "https://www.baseball-reference.com/players/a/alvarpe01.shtml",
+    "player": "Pedro \u00c3\u0081lvarez"
+  },
+  {
+    "id": 417,
+    "url": "https://www.baseball-reference.com/players/r/robindr01.shtml",
+    "player": "Drew Robinson"
+  },
+  {
+    "id": 418,
+    "url": "https://www.baseball-reference.com/players/c/cowarka01.shtml",
+    "player": "Kaleb Cowart"
+  },
+  {
+    "id": 419,
+    "url": "https://www.baseball-reference.com/players/d/dixonbr01.shtml",
+    "player": "Brandon Dixon"
+  },
+  {
+    "id": 420,
+    "url": "https://www.baseball-reference.com/players/f/fernajo03.shtml",
+    "player": "Jos\u00c3\u00a9 Miguel Fern\u00c3\u00a1ndez"
+  },
+  {
+    "id": 421,
+    "url": "https://www.baseball-reference.com/players/d/deanau01.shtml",
+    "player": "Austin Dean"
+  },
+  {
+    "id": 422,
+    "url": "https://www.baseball-reference.com/players/t/tilsoch01.shtml",
+    "player": "Charlie Tilson"
+  },
+  {
+    "id": 423,
+    "url": "https://www.baseball-reference.com/players/d/diazya01.shtml",
+    "player": "Yandy D\u00c3\u00adaz"
+  },
+  {
+    "id": 424,
+    "url": "https://www.baseball-reference.com/players/g/goinsry01.shtml",
+    "player": "Ryan Goins"
+  },
+  {
+    "id": 425,
+    "url": "https://www.baseball-reference.com/players/w/wynnsau01.shtml",
+    "player": "Austin Wynns"
+  },
+  {
+    "id": 426,
+    "url": "https://www.baseball-reference.com/players/c/cuthbch01.shtml",
+    "player": "Cheslor Cuthbert"
+  },
+  {
+    "id": 427,
+    "url": "https://www.baseball-reference.com/players/l/lopezra02.shtml",
+    "player": "Rafael Lopez"
+  },
+  {
+    "id": 428,
+    "url": "https://www.baseball-reference.com/players/y/younger03.shtml",
+    "player": "Eric Young Jr."
+  },
+  {
+    "id": 429,
+    "url": "https://www.baseball-reference.com/players/g/greingr01.shtml",
+    "player": "Grayson Greiner"
+  },
+  {
+    "id": 430,
+    "url": "https://www.baseball-reference.com/players/s/seageco01.shtml",
+    "player": "Corey Seager"
+  },
+  {
+    "id": 431,
+    "url": "https://www.baseball-reference.com/players/z/zimmebr01.shtml",
+    "player": "Bradley Zimmer"
+  },
+  {
+    "id": 432,
+    "url": "https://www.baseball-reference.com/players/d/davisjd01.shtml",
+    "player": "J.D. Davis"
+  },
+  {
+    "id": 433,
+    "url": "https://www.baseball-reference.com/players/s/sogarer01.shtml",
+    "player": "Eric Sogard"
+  },
+  {
+    "id": 434,
+    "url": "https://www.baseball-reference.com/players/o/osunajo01.shtml",
+    "player": "Jos\u00c3\u00a9 Osuna"
+  },
+  {
+    "id": 435,
+    "url": "https://www.baseball-reference.com/players/c/calhowi01.shtml",
+    "player": "Willie Calhoun"
+  },
+  {
+    "id": 436,
+    "url": "https://www.baseball-reference.com/players/s/santaan02.shtml",
+    "player": "Anthony Santander"
+  },
+  {
+    "id": 437,
+    "url": "https://www.baseball-reference.com/players/u/urenari01.shtml",
+    "player": "Richard Ure\u00c3\u00b1a"
+  },
+  {
+    "id": 438,
+    "url": "https://www.baseball-reference.com/players/r/rondojo02.shtml",
+    "player": "Jos\u00c3\u00a9 Rond\u00c3\u00b3n"
+  },
+  {
+    "id": 439,
+    "url": "https://www.baseball-reference.com/players/a/arciafr01.shtml",
+    "player": "Francisco Arcia"
+  },
+  {
+    "id": 440,
+    "url": "https://www.baseball-reference.com/players/f/freitda01.shtml",
+    "player": "David Freitas"
+  },
+  {
+    "id": 441,
+    "url": "https://www.baseball-reference.com/players/w/willima11.shtml",
+    "player": "Mac Williamson"
+  },
+  {
+    "id": 442,
+    "url": "https://www.baseball-reference.com/players/l/luplojo01.shtml",
+    "player": "Jordan Luplow"
+  },
+  {
+    "id": 443,
+    "url": "https://www.baseball-reference.com/players/r/refsnro01.shtml",
+    "player": "Rob Refsnyder"
+  },
+  {
+    "id": 444,
+    "url": "https://www.baseball-reference.com/players/p/phegljo01.shtml",
+    "player": "Josh Phegley"
+  },
+  {
+    "id": 445,
+    "url": "https://www.baseball-reference.com/players/t/torrero01.shtml",
+    "player": "Ronald Torreyes"
+  },
+  {
+    "id": 446,
+    "url": "https://www.baseball-reference.com/players/v/vogelda01.shtml",
+    "player": "Daniel Vogelbach"
+  },
+  {
+    "id": 447,
+    "url": "https://www.baseball-reference.com/players/l/lugoda01.shtml",
+    "player": "Dawel Lugo"
+  },
+  {
+    "id": 448,
+    "url": "https://www.baseball-reference.com/players/d/darnach01.shtml",
+    "player": "Chase d'Arnaud"
+  },
+  {
+    "id": 449,
+    "url": "https://www.baseball-reference.com/players/a/astudwi01.shtml",
+    "player": "Marcus Semien"
+  },
+  {
+    "id": 450,
+    "url": "https://www.baseball-reference.com/players/a/alonspe01.shtml",
+    "player": "Pete Alonso"
+  },
+  {
+    "id": 451,
+    "url": "https://www.baseball-reference.com/players/r/roblevi01.shtml",
+    "player": "V\u00c3\u00adctor Robles"
+  },
+  {
+    "id": 452,
+    "url": "https://www.baseball-reference.com/players/w/walkech02.shtml",
+    "player": "Christian Walker"
+  },
+  {
+    "id": 453,
+    "url": "https://www.baseball-reference.com/players/a/alberha01.shtml",
+    "player": "Hanser Alberto"
+  },
+  {
+    "id": 454,
+    "url": "https://www.baseball-reference.com/players/r/reynobr01.shtml",
+    "player": "Bryan Reynolds"
+  },
+  {
+    "id": 455,
+    "url": "https://www.baseball-reference.com/players/n/newmake01.shtml",
+    "player": "Kevin Newman"
+  },
+  {
+    "id": 456,
+    "url": "https://www.baseball-reference.com/players/g/guerrvl02.shtml",
+    "player": "Vladimir Guerrero Jr."
+  },
+  {
+    "id": 457,
+    "url": "https://www.baseball-reference.com/players/s/santada01.shtml",
+    "player": "Danny Santana"
+  },
+  {
+    "id": 458,
+    "url": "https://www.baseball-reference.com/players/j/jimenel02.shtml",
+    "player": "Eloy Jim\u00c3\u00a9nez"
+  },
+  {
+    "id": 459,
+    "url": "https://www.baseball-reference.com/players/m/mercaos01.shtml",
+    "player": "\u00c3\u0093scar Mercado"
+  },
+  {
+    "id": 460,
+    "url": "https://www.baseball-reference.com/players/u/urshegi01.shtml",
+    "player": "Gio Urshela"
+  },
+  {
+    "id": 461,
+    "url": "https://www.baseball-reference.com/players/d/drurybr01.shtml",
+    "player": "Brandon Drury"
+  },
+  {
+    "id": 462,
+    "url": "https://www.baseball-reference.com/players/t/tapiara01.shtml",
+    "player": "Raimel Tapia"
+  },
+  {
+    "id": 463,
+    "url": "https://www.baseball-reference.com/players/r/ramirha02.shtml",
+    "player": "Harold Ram\u00c3\u00adrez"
+  },
+  {
+    "id": 464,
+    "url": "https://www.baseball-reference.com/players/b/biggica01.shtml",
+    "player": "Cavan Biggio"
+  },
+  {
+    "id": 465,
+    "url": "https://www.baseball-reference.com/players/c/coopega03.shtml",
+    "player": "Garrett Cooper"
+  },
+  {
+    "id": 466,
+    "url": "https://www.baseball-reference.com/players/s/stewach02.shtml",
+    "player": "Christin Stewart"
+  },
+  {
+    "id": 467,
+    "url": "https://www.baseball-reference.com/players/s/senzeni01.shtml",
+    "player": "Nick Senzel"
+  },
+  {
+    "id": 468,
+    "url": "https://www.baseball-reference.com/players/r/ruizri01.shtml",
+    "player": "Rio Ruiz"
+  },
+  {
+    "id": 469,
+    "url": "https://www.baseball-reference.com/players/y/yastrmi01.shtml",
+    "player": "Mike Yastrzemski"
+  },
+  {
+    "id": 470,
+    "url": "https://www.baseball-reference.com/players/t/tellero01.shtml",
+    "player": "Rowdy Tellez"
+  },
+  {
+    "id": 471,
+    "url": "https://www.baseball-reference.com/players/r/rengilu01.shtml",
+    "player": "Luis Rengifo"
+  },
+  {
+    "id": 472,
+    "url": "https://www.baseball-reference.com/players/l/lopezni01.shtml",
+    "player": "Nicky Lopez"
+  },
+  {
+    "id": 473,
+    "url": "https://www.baseball-reference.com/players/s/smithdw02.shtml",
+    "player": "Dwight Smith Jr."
+  },
+  {
+    "id": 474,
+    "url": "https://www.baseball-reference.com/players/d/darnatr01.shtml",
+    "player": "Travis d'Arnaud"
+  },
+  {
+    "id": 475,
+    "url": "https://www.baseball-reference.com/players/j/janseda01.shtml",
+    "player": "Danny Jansen"
+  },
+  {
+    "id": 476,
+    "url": "https://www.baseball-reference.com/players/c/chavimi01.shtml",
+    "player": "Michael Chavis"
+  },
+  {
+    "id": 477,
+    "url": "https://www.baseball-reference.com/players/v/verdual01.shtml",
+    "player": "Alex Verdugo"
+  },
+  {
+    "id": 478,
+    "url": "https://www.baseball-reference.com/players/t/tatisfe02.shtml",
+    "player": "Fernando Tatis Jr."
+  },
+  {
+    "id": 479,
+    "url": "https://www.baseball-reference.com/players/a/alvaryo01.shtml",
+    "player": "Yordan Alvarez"
+  },
+  {
+    "id": 480,
+    "url": "https://www.baseball-reference.com/players/c/castrha01.shtml",
+    "player": "Harold Castro"
+  },
+  {
+    "id": 481,
+    "url": "https://www.baseball-reference.com/players/a/arraelu01.shtml",
+    "player": "Luis Arr\u00c3\u00a1ez"
+  },
+  {
+    "id": 482,
+    "url": "https://www.baseball-reference.com/players/k/kellyca02.shtml",
+    "player": "Carson Kelly"
+  },
+  {
+    "id": 483,
+    "url": "https://www.baseball-reference.com/players/w/wilkest01.shtml",
+    "player": "Stevie Wilkerson"
+  },
+  {
+    "id": 484,
+    "url": "https://www.baseball-reference.com/players/e/edmanto01.shtml",
+    "player": "Tommy Edman"
+  },
+  {
+    "id": 485,
+    "url": "https://www.baseball-reference.com/players/h/hiurake01.shtml",
+    "player": "Keston Hiura"
+  },
+  {
+    "id": 486,
+    "url": "https://www.baseball-reference.com/players/h/hampsga01.shtml",
+    "player": "Garrett Hampson"
+  },
+  {
+    "id": 487,
+    "url": "https://www.baseball-reference.com/players/m/martiri01.shtml",
+    "player": "Richie Martin"
+  },
+  {
+    "id": 488,
+    "url": "https://www.baseball-reference.com/players/r/rileyau01.shtml",
+    "player": "Austin Riley"
+  },
+  {
+    "id": 489,
+    "url": "https://www.baseball-reference.com/players/t/tauchmi01.shtml",
+    "player": "Mike Tauchman"
+  },
+  {
+    "id": 490,
+    "url": "https://www.baseball-reference.com/players/b/buxtoby01.shtml",
+    "player": "Byron Buxton"
+  },
+  {
+    "id": 491,
+    "url": "https://www.baseball-reference.com/players/b/bertijo01.shtml",
+    "player": "Jon Berti"
+  },
+  {
+    "id": 492,
+    "url": "https://www.baseball-reference.com/players/l/lagarju01.shtml",
+    "player": "Juan Lagares"
+  },
+  {
+    "id": 493,
+    "url": "https://www.baseball-reference.com/players/m/mooredy01.shtml",
+    "player": "Dylan Moore"
+  },
+  {
+    "id": 494,
+    "url": "https://www.baseball-reference.com/players/m/murphto04.shtml",
+    "player": "Tom Murphy"
+  },
+  {
+    "id": 495,
+    "url": "https://www.baseball-reference.com/players/v/vogtst01.shtml",
+    "player": "Stephen Vogt"
+  },
+  {
+    "id": 496,
+    "url": "https://www.baseball-reference.com/players/n/naylojo01.shtml",
+    "player": "Josh Naylor"
+  },
+  {
+    "id": 497,
+    "url": "https://www.baseball-reference.com/players/c/castrja01.shtml",
+    "player": "Jason Castro"
+  },
+  {
+    "id": 498,
+    "url": "https://www.baseball-reference.com/players/b/beatyma01.shtml",
+    "player": "Matt Beaty"
+  },
+  {
+    "id": 499,
+    "url": "https://www.baseball-reference.com/players/n/nolaau01.shtml",
+    "player": "Austin Nola"
+  },
+  {
+    "id": 500,
+    "url": "https://www.baseball-reference.com/players/v/vanmejo01.shtml",
+    "player": "Josh VanMeter"
+  },
+  {
+    "id": 501,
+    "url": "https://www.baseball-reference.com/players/l/locasti01.shtml",
+    "player": "Tim Locastro"
+  },
+  {
+    "id": 502,
+    "url": "https://www.baseball-reference.com/players/u/uriaslu01.shtml",
+    "player": "Luis Ur\u00c3\u00adas"
+  },
+  {
+    "id": 503,
+    "url": "https://www.baseball-reference.com/players/c/cordery01.shtml",
+    "player": "Ryan Cordell"
+  },
+  {
+    "id": 504,
+    "url": "https://www.baseball-reference.com/players/f/frazicl01.shtml",
+    "player": "Clint Frazier"
+  },
+  {
+    "id": 505,
+    "url": "https://www.baseball-reference.com/players/m/mejiafr01.shtml",
+    "player": "Francisco Mejia"
+  },
+  {
+    "id": 506,
+    "url": "https://www.baseball-reference.com/players/h/haselad01.shtml",
+    "player": "Adam Haseley"
+  },
+  {
+    "id": 507,
+    "url": "https://www.baseball-reference.com/players/b/beckhgo01.shtml",
+    "player": "Gordon Beckham"
+  },
+  {
+    "id": 508,
+    "url": "https://www.baseball-reference.com/players/s/solando01.shtml",
+    "player": "Donovan Solano"
+  },
+  {
+    "id": 509,
+    "url": "https://www.baseball-reference.com/players/b/broxtke01.shtml",
+    "player": "Keon Broxton"
+  },
+  {
+    "id": 510,
+    "url": "https://www.baseball-reference.com/players/a/aquinar01.shtml",
+    "player": "Aristides Aquino"
+  },
+  {
+    "id": 511,
+    "url": "https://www.baseball-reference.com/players/f/freemmi01.shtml",
+    "player": "Mike Freeman"
+  },
+  {
+    "id": 512,
+    "url": "https://www.baseball-reference.com/players/b/bichebo01.shtml",
+    "player": "Bo Bichette"
+  },
+  {
+    "id": 513,
+    "url": "https://www.baseball-reference.com/players/v/vargail01.shtml",
+    "player": "Ildemaro Vargas"
+  },
+  {
+    "id": 514,
+    "url": "https://www.baseball-reference.com/players/s/stallja01.shtml",
+    "player": "Jacob Stallings"
+  },
+  {
+    "id": 515,
+    "url": "https://www.baseball-reference.com/players/d/diazis01.shtml",
+    "player": "Isan D\u00c3\u00adaz"
+  },
+  {
+    "id": 516,
+    "url": "https://www.baseball-reference.com/players/f/francty01.shtml",
+    "player": "Ty France"
+  },
+  {
+    "id": 517,
+    "url": "https://www.baseball-reference.com/players/f/farmeky01.shtml",
+    "player": "Kyle Farmer"
+  },
+  {
+    "id": 518,
+    "url": "https://www.baseball-reference.com/players/s/starlbu01.shtml",
+    "player": "Bubba Starling"
+  },
+  {
+    "id": 519,
+    "url": "https://www.baseball-reference.com/players/s/smithwi05.shtml",
+    "player": "Will Smith"
+  },
+  {
+    "id": 520,
+    "url": "https://www.baseball-reference.com/players/d/dickeal01.shtml",
+    "player": "Alex Dickerson"
+  },
+  {
+    "id": 521,
+    "url": "https://www.baseball-reference.com/players/d/demertr01.shtml",
+    "player": "Travis Demeritte"
+  },
+  {
+    "id": 522,
+    "url": "https://www.baseball-reference.com/players/k/kangju01.shtml",
+    "player": "Jung Ho Kang"
+  },
+  {
+    "id": 523,
+    "url": "https://www.baseball-reference.com/players/g/grishtr01.shtml",
+    "player": "Trent Grisham"
+  },
+  {
+    "id": 524,
+    "url": "https://www.baseball-reference.com/players/l/lowena01.shtml",
+    "player": "Nathaniel Lowe"
+  },
+  {
+    "id": 525,
+    "url": "https://www.baseball-reference.com/players/l/longsh01.shtml",
+    "player": "Shed Long Jr."
+  },
+  {
+    "id": 526,
+    "url": "https://www.baseball-reference.com/players/f/fishede01.shtml",
+    "player": "Derek Fisher"
+  },
+  {
+    "id": 527,
+    "url": "https://www.baseball-reference.com/players/t/thaisma01.shtml",
+    "player": "Matt Thaiss"
+  },
+  {
+    "id": 528,
+    "url": "https://www.baseball-reference.com/players/f/fordmi01.shtml",
+    "player": "Mike Ford"
+  },
+  {
+    "id": 529,
+    "url": "https://www.baseball-reference.com/players/t/tuckeco01.shtml",
+    "player": "Cole Tucker"
+  },
+  {
+    "id": 530,
+    "url": "https://www.baseball-reference.com/players/r/reyespa01.shtml",
+    "player": "Pablo Reyes"
+  },
+  {
+    "id": 531,
+    "url": "https://www.baseball-reference.com/players/r/rojasjo01.shtml",
+    "player": "Josh Rojas"
+  },
+  {
+    "id": 532,
+    "url": "https://www.baseball-reference.com/players/t/travisa01.shtml",
+    "player": "Sam Travis"
+  },
+  {
+    "id": 533,
+    "url": "https://www.baseball-reference.com/players/h/hernama02.shtml",
+    "player": "Marco Hern\u00c3\u00a1ndez"
+  },
+  {
+    "id": 534,
+    "url": "https://www.baseball-reference.com/players/v/vilorme01.shtml",
+    "player": "Meibrys Viloria"
+  },
+  {
+    "id": 535,
+    "url": "https://www.baseball-reference.com/players/p/puellce01.shtml",
+    "player": "C\u00c3\u00a9sar Puello"
+  },
+  {
+    "id": 536,
+    "url": "https://www.baseball-reference.com/players/n/nidoto01.shtml",
+    "player": "Tom\u00c3\u00a1s Nido"
+  },
+  {
+    "id": 537,
+    "url": "https://www.baseball-reference.com/players/b/brossmi01.shtml",
+    "player": "Mike Brosseau"
+  },
+  {
+    "id": 538,
+    "url": "https://www.baseball-reference.com/players/g/gallaca01.shtml",
+    "player": "Cam Gallagher"
+  },
+  {
+    "id": 539,
+    "url": "https://www.baseball-reference.com/players/s/stewadj01.shtml",
+    "player": "DJ Stewart"
+  },
+  {
+    "id": 540,
+    "url": "https://www.baseball-reference.com/players/a/arteahu01.shtml",
+    "player": "Humberto Arteaga"
+  },
+  {
+    "id": 541,
+    "url": "https://www.baseball-reference.com/players/s/solakni01.shtml",
+    "player": "Nick Solak"
+  },
+  {
+    "id": 542,
+    "url": "https://www.baseball-reference.com/players/l/lopesti01.shtml",
+    "player": "Tim Lopes"
+  },
+  {
+    "id": 543,
+    "url": "https://www.baseball-reference.com/players/r/rogerja03.shtml",
+    "player": "Jake Rogers"
+  },
+  {
+    "id": 544,
+    "url": "https://www.baseball-reference.com/players/s/strawmy01.shtml",
+    "player": "Myles Straw"
+  },
+  {
+    "id": 545,
+    "url": "https://www.baseball-reference.com/players/t/trevijo01.shtml",
+    "player": "Jose Trevino"
+  },
+  {
+    "id": 546,
+    "url": "https://www.baseball-reference.com/players/d/dubonma01.shtml",
+    "player": "Mauricio Dub\u00c3\u00b3n"
+  },
+  {
+    "id": 547,
+    "url": "https://www.baseball-reference.com/players/c/castrwi01.shtml",
+    "player": "Willi Castro"
+  },
+  {
+    "id": 548,
+    "url": "https://www.baseball-reference.com/players/w/wadety01.shtml",
+    "player": "Tyler Wade"
+  },
+  {
+    "id": 549,
+    "url": "https://www.baseball-reference.com/players/d/dazayo01.shtml",
+    "player": "Yonathan Daza"
+  },
+  {
+    "id": 550,
+    "url": "https://www.baseball-reference.com/players/m/mcguire01.shtml",
+    "player": "Reese McGuire"
+  },
+  {
+    "id": 551,
+    "url": "https://www.baseball-reference.com/players/c/colliza01.shtml",
+    "player": "Zack Collins"
+  },
+  {
+    "id": 552,
+    "url": "https://www.baseball-reference.com/players/g/garnedu01.shtml",
+    "player": "Dustin Garneau"
+  },
+  {
+    "id": 553,
+    "url": "https://www.baseball-reference.com/players/l/lewisky01.shtml",
+    "player": "Kyle Lewis"
+  },
+  {
+    "id": 554,
+    "url": "https://www.baseball-reference.com/players/t/tuckeky01.shtml",
+    "player": "Kyle Tucker"
+  },
+  {
+    "id": 555,
+    "url": "https://www.baseball-reference.com/players/r/roberlu01.shtml",
+    "player": "Luis Robert Jr."
+  },
+  {
+    "id": 556,
+    "url": "https://www.baseball-reference.com/players/w/whiteev01.shtml",
+    "player": "Evan White"
+  },
+  {
+    "id": 557,
+    "url": "https://www.baseball-reference.com/players/c/croneja01.shtml",
+    "player": "Jake Cronenworth"
+  },
+  {
+    "id": 558,
+    "url": "https://www.baseball-reference.com/players/t/tsutsyo01.shtml",
+    "player": "Yoshi Tsutsugo"
+  },
+  {
+    "id": 559,
+    "url": "https://www.baseball-reference.com/players/a/akiyash01.shtml",
+    "player": "Shogo Akiyama"
+  },
+  {
+    "id": 560,
+    "url": "https://www.baseball-reference.com/players/b/bohmal01.shtml",
+    "player": "Alec Bohm"
+  },
+  {
+    "id": 561,
+    "url": "https://www.baseball-reference.com/players/m/mountry01.shtml",
+    "player": "Ryan Mountcastle"
+  },
+  {
+    "id": 562,
+    "url": "https://www.baseball-reference.com/players/m/murphse01.shtml",
+    "player": "Sean Murphy"
+  },
+  {
+    "id": 563,
+    "url": "https://www.baseball-reference.com/players/g/garcilu04.shtml",
+    "player": "Luis Garc\u00c3\u00ada Jr."
+  },
+  {
+    "id": 564,
+    "url": "https://www.baseball-reference.com/players/h/haysau01.shtml",
+    "player": "Austin Hays"
+  },
+  {
+    "id": 565,
+    "url": "https://www.baseball-reference.com/players/t/taverle01.shtml",
+    "player": "Leody Taveras"
+  },
+  {
+    "id": 566,
+    "url": "https://www.baseball-reference.com/players/a/adelljo01.shtml",
+    "player": "Jo Adell"
+  },
+  {
+    "id": 567,
+    "url": "https://www.baseball-reference.com/players/g/gimenan01.shtml",
+    "player": "Andr\u00c3\u00a9s Gim\u00c3\u00a9nez"
+  },
+  {
+    "id": 568,
+    "url": "https://www.baseball-reference.com/players/h/hoernni01.shtml",
+    "player": "Nico Hoerner"
+  },
+  {
+    "id": 569,
+    "url": "https://www.baseball-reference.com/players/k/kieboca01.shtml",
+    "player": "Carter Kieboom"
+  },
+  {
+    "id": 570,
+    "url": "https://www.baseball-reference.com/players/c/carlsdy01.shtml",
+    "player": "Dylan Carlson"
+  },
+  {
+    "id": 571,
+    "url": "https://www.baseball-reference.com/players/m/marmojo01.shtml",
+    "player": "Jos\u00c3\u00a9 Marmolejos"
+  },
+  {
+    "id": 572,
+    "url": "https://www.baseball-reference.com/players/v/varshda01.shtml",
+    "player": "Daulton Varsho"
+  },
+  {
+    "id": 573,
+    "url": "https://www.baseball-reference.com/players/h/hillisa01.shtml",
+    "player": "Sam Hilliard"
+  },
+  {
+    "id": 574,
+    "url": "https://www.baseball-reference.com/players/m/mendida01.shtml",
+    "player": "Danny Mendick"
+  },
+  {
+    "id": 575,
+    "url": "https://www.baseball-reference.com/players/b/bartjo01.shtml",
+    "player": "Joey Bart"
+  },
+  {
+    "id": 576,
+    "url": "https://www.baseball-reference.com/players/m/madrini01.shtml",
+    "player": "Nick Madrigal"
+  },
+  {
+    "id": 577,
+    "url": "https://www.baseball-reference.com/players/p/paredis01.shtml",
+    "player": "Isaac Paredes"
+  },
+  {
+    "id": 578,
+    "url": "https://www.baseball-reference.com/players/w/walshja01.shtml",
+    "player": "Jared Walsh"
+  },
+  {
+    "id": 579,
+    "url": "https://www.baseball-reference.com/players/f/fuentjo01.shtml",
+    "player": "Joshua Fuentes"
+  },
+  {
+    "id": 580,
+    "url": "https://www.baseball-reference.com/players/g/gosseph01.shtml",
+    "player": "Phil Gosselin"
+  },
+  {
+    "id": 581,
+    "url": "https://www.baseball-reference.com/players/o/olivaed02.shtml",
+    "player": "Edward Olivares"
+  },
+  {
+    "id": 582,
+    "url": "https://www.baseball-reference.com/players/r/rufda01.shtml",
+    "player": "Darin Ruf"
+  },
+  {
+    "id": 583,
+    "url": "https://www.baseball-reference.com/players/i/indiajo01.shtml",
+    "player": "Jonathan India"
+  },
+  {
+    "id": 584,
+    "url": "https://www.baseball-reference.com/players/g/garciad02.shtml",
+    "player": "Adolis Garc\u00c3\u00ada"
+  },
+  {
+    "id": 585,
+    "url": "https://www.baseball-reference.com/players/a/arozara01.shtml",
+    "player": "Randy Arozarena"
+  },
+  {
+    "id": 586,
+    "url": "https://www.baseball-reference.com/players/s/smithpa04.shtml",
+    "player": "Pavin Smith"
+  },
+  {
+    "id": 587,
+    "url": "https://www.baseball-reference.com/players/c/chishja01.shtml",
+    "player": "Jazz Chisholm Jr."
+  },
+  {
+    "id": 588,
+    "url": "https://www.baseball-reference.com/players/v/vaughan01.shtml",
+    "player": "Andrew Vaughn"
+  },
+  {
+    "id": 589,
+    "url": "https://www.baseball-reference.com/players/b/baddoak01.shtml",
+    "player": "Akil Baddoo"
+  },
+  {
+    "id": 590,
+    "url": "https://www.baseball-reference.com/players/d/dalbebo01.shtml",
+    "player": "Bobby Dalbec"
+  },
+  {
+    "id": 591,
+    "url": "https://www.baseball-reference.com/players/r/rodgebr02.shtml",
+    "player": "Brendan Rodgers"
+  },
+  {
+    "id": 592,
+    "url": "https://www.baseball-reference.com/players/s/stephty01.shtml",
+    "player": "Tyler Stephenson"
+  },
+  {
+    "id": 593,
+    "url": "https://www.baseball-reference.com/players/h/hayeske01.shtml",
+    "player": "Ke'Bryan Hayes"
+  },
+  {
+    "id": 594,
+    "url": "https://www.baseball-reference.com/players/h/haaseer01.shtml",
+    "player": "Eric Haase"
+  },
+  {
+    "id": 595,
+    "url": "https://www.baseball-reference.com/players/l/luxga01.shtml",
+    "player": "Gavin Lux"
+  },
+  {
+    "id": 596,
+    "url": "https://www.baseball-reference.com/players/w/wadela01.shtml",
+    "player": "LaMonte Wade Jr."
+  },
+  {
+    "id": 597,
+    "url": "https://www.baseball-reference.com/players/t/torrelu01.shtml",
+    "player": "Luis Torrens"
+  },
+  {
+    "id": 598,
+    "url": "https://www.baseball-reference.com/players/k/kelenja01.shtml",
+    "player": "Jarred Kelenic"
+  },
+  {
+    "id": 599,
+    "url": "https://www.baseball-reference.com/players/w/wisdopa01.shtml",
+    "player": "Patrick Wisdom"
+  },
+  {
+    "id": 600,
+    "url": "https://www.baseball-reference.com/players/t/toroab01.shtml",
+    "player": "Abraham Toro"
+  },
+  {
+    "id": 601,
+    "url": "https://www.baseball-reference.com/players/s/sosaed01.shtml",
+    "player": "Edmundo Sosa"
+  },
+  {
+    "id": 602,
+    "url": "https://www.baseball-reference.com/players/m/mccorch01.shtml",
+    "player": "Chas McCormick"
+  },
+  {
+    "id": 603,
+    "url": "https://www.baseball-reference.com/players/f/francwa01.shtml",
+    "player": "Wander Franco"
+  },
+  {
+    "id": 604,
+    "url": "https://www.baseball-reference.com/players/b/brownse01.shtml",
+    "player": "Seth Brown"
+  },
+  {
+    "id": 605,
+    "url": "https://www.baseball-reference.com/players/l/larnatr01.shtml",
+    "player": "Trevor Larnach"
+  },
+  {
+    "id": 606,
+    "url": "https://www.baseball-reference.com/players/k/kimha01.shtml",
+    "player": "Ha-Seong Kim"
+  },
+  {
+    "id": 607,
+    "url": "https://www.baseball-reference.com/players/u/uriasra01.shtml",
+    "player": "Ram\u00c3\u00b3n Ur\u00c3\u00adas"
+  },
+  {
+    "id": 608,
+    "url": "https://www.baseball-reference.com/players/g/gutieke01.shtml",
+    "player": "Kelvin Guti\u00c3\u00a9rrez"
+  },
+  {
+    "id": 609,
+    "url": "https://www.baseball-reference.com/players/j/jeffery01.shtml",
+    "player": "Ryan Jeffers"
+  },
+  {
+    "id": 610,
+    "url": "https://www.baseball-reference.com/players/m/mayfija01.shtml",
+    "player": "Jack Mayfield"
+  },
+  {
+    "id": 611,
+    "url": "https://www.baseball-reference.com/players/h/hernaya01.shtml",
+    "player": "Yadiel Hern\u00c3\u00a1ndez"
+  },
+  {
+    "id": 612,
+    "url": "https://www.baseball-reference.com/players/h/heimjo01.shtml",
+    "player": "Jonah Heim"
+  },
+  {
+    "id": 613,
+    "url": "https://www.baseball-reference.com/players/b/bradlbo01.shtml",
+    "player": "Bobby Bradley"
+  },
+  {
+    "id": 614,
+    "url": "https://www.baseball-reference.com/players/i/ibanean01.shtml",
+    "player": "Andy Ib\u00c3\u00a1\u00c3\u00b1ez"
+  },
+  {
+    "id": 615,
+    "url": "https://www.baseball-reference.com/players/t/tayloty01.shtml",
+    "player": "Tyrone Taylor"
+  },
+  {
+    "id": 616,
+    "url": "https://www.baseball-reference.com/players/f/fraleja01.shtml",
+    "player": "Jake Fraley"
+  },
+  {
+    "id": 617,
+    "url": "https://www.baseball-reference.com/players/t/thomala02.shtml",
+    "player": "Lane Thomas"
+  },
+  {
+    "id": 618,
+    "url": "https://www.baseball-reference.com/players/n/nunezdo01.shtml",
+    "player": "Dom Nu\u00c3\u00b1ez"
+  },
+  {
+    "id": 619,
+    "url": "https://www.baseball-reference.com/players/m/merceye01.shtml",
+    "player": "Yerm\u00c3\u00adn Mercedes"
+  },
+  {
+    "id": 620,
+    "url": "https://www.baseball-reference.com/players/m/marshbr02.shtml",
+    "player": "Brandon Marsh"
+  },
+  {
+    "id": 621,
+    "url": "https://www.baseball-reference.com/players/s/schwifr01.shtml",
+    "player": "Frank Schwindel"
+  },
+  {
+    "id": 622,
+    "url": "https://www.baseball-reference.com/players/a/alcanse01.shtml",
+    "player": "Sergio Alc\u00c3\u00a1ntara"
+  },
+  {
+    "id": 623,
+    "url": "https://www.baseball-reference.com/players/c/changyu01.shtml",
+    "player": "Yu Chang"
+  },
+  {
+    "id": 624,
+    "url": "https://www.baseball-reference.com/players/s/sanchje02.shtml",
+    "player": "Jes\u00c3\u00bas S\u00c3\u00a1nchez"
+  },
+  {
+    "id": 625,
+    "url": "https://www.baseball-reference.com/players/e/evansph01.shtml",
+    "player": "Phillip Evans"
+  },
+  {
+    "id": 626,
+    "url": "https://www.baseball-reference.com/players/e/espinsa01.shtml",
+    "player": "Santiago Espinal"
+  },
+  {
+    "id": 627,
+    "url": "https://www.baseball-reference.com/players/p/peterdj01.shtml",
+    "player": "DJ Peters"
+  },
+  {
+    "id": 628,
+    "url": "https://www.baseball-reference.com/players/k/kirilal01.shtml",
+    "player": "Alex Kirilloff"
+  },
+  {
+    "id": 629,
+    "url": "https://www.baseball-reference.com/players/p/perezmi03.shtml",
+    "player": "Michael P\u00c3\u00a9rez"
+  },
+  {
+    "id": 630,
+    "url": "https://www.baseball-reference.com/players/w/whiteel04.shtml",
+    "player": "Eli White"
+  },
+  {
+    "id": 631,
+    "url": "https://www.baseball-reference.com/players/d/delacbr01.shtml",
+    "player": "Bryan De La Cruz"
+  },
+  {
+    "id": 632,
+    "url": "https://www.baseball-reference.com/players/g/gordoni01.shtml",
+    "player": "Nick Gordon"
+  },
+  {
+    "id": 633,
+    "url": "https://www.baseball-reference.com/players/r/rookebr01.shtml",
+    "player": "Brent Rooker"
+  },
+  {
+    "id": 634,
+    "url": "https://www.baseball-reference.com/players/s/stevean01.shtml",
+    "player": "Andrew Stevenson"
+  },
+  {
+    "id": 635,
+    "url": "https://www.baseball-reference.com/players/h/higasky01.shtml",
+    "player": "Kyle Higashioka"
+  },
+  {
+    "id": 636,
+    "url": "https://www.baseball-reference.com/players/j/joeco01.shtml",
+    "player": "Connor Joe"
+  },
+  {
+    "id": 637,
+    "url": "https://www.baseball-reference.com/players/m/mateojo01.shtml",
+    "player": "Jorge Mateo"
+  },
+  {
+    "id": 638,
+    "url": "https://www.baseball-reference.com/players/m/milleow01.shtml",
+    "player": "Owen Miller"
+  },
+  {
+    "id": 639,
+    "url": "https://www.baseball-reference.com/players/m/mckenry01.shtml",
+    "player": "Ryan McKenna"
+  },
+  {
+    "id": 640,
+    "url": "https://www.baseball-reference.com/players/k/kirkal01.shtml",
+    "player": "Alejandro Kirk"
+  },
+  {
+    "id": 641,
+    "url": "https://www.baseball-reference.com/players/c/contrwi02.shtml",
+    "player": "William Contreras"
+  },
+  {
+    "id": 642,
+    "url": "https://www.baseball-reference.com/players/k/kniznan01.shtml",
+    "player": "Andrew Knizner"
+  },
+  {
+    "id": 643,
+    "url": "https://www.baseball-reference.com/players/r/rojasjo02.shtml",
+    "player": "Jose Rojas"
+  },
+  {
+    "id": 644,
+    "url": "https://www.baseball-reference.com/players/s/shortza01.shtml",
+    "player": "Zack Short"
+  },
+  {
+    "id": 645,
+    "url": "https://www.baseball-reference.com/players/a/arroych01.shtml",
+    "player": "Christian Arroyo"
+  },
+  {
+    "id": 646,
+    "url": "https://www.baseball-reference.com/players/s/sheetga01.shtml",
+    "player": "Gavin Sheets"
+  },
+  {
+    "id": 647,
+    "url": "https://www.baseball-reference.com/players/t/trammta01.shtml",
+    "player": "Taylor Trammell"
+  },
+  {
+    "id": 648,
+    "url": "https://www.baseball-reference.com/players/w/wallsta01.shtml",
+    "player": "Taylor Walls"
+  },
+  {
+    "id": 649,
+    "url": "https://www.baseball-reference.com/players/m/mckinza01.shtml",
+    "player": "Zach McKinstry"
+  },
+  {
+    "id": 650,
+    "url": "https://www.baseball-reference.com/players/h/hernayo02.shtml",
+    "player": "Yonny Hern\u00c3\u00a1ndez"
+  },
+  {
+    "id": 651,
+    "url": "https://www.baseball-reference.com/players/m/meyerja02.shtml",
+    "player": "Jake Meyers"
+  },
+  {
+    "id": 652,
+    "url": "https://www.baseball-reference.com/players/g/guilllu01.shtml",
+    "player": "Luis Guillorme"
+  },
+  {
+    "id": 653,
+    "url": "https://www.baseball-reference.com/players/m/martija03.shtml",
+    "player": "Jason Martin"
+  },
+  {
+    "id": 654,
+    "url": "https://www.baseball-reference.com/players/j/jacksal02.shtml",
+    "player": "Alex Jackson"
+  },
+  {
+    "id": 655,
+    "url": "https://www.baseball-reference.com/players/h/hillde01.shtml",
+    "player": "Derek Hill"
+  },
+  {
+    "id": 656,
+    "url": "https://www.baseball-reference.com/players/p/parkho01.shtml",
+    "player": "Hoy Park"
+  },
+  {
+    "id": 657,
+    "url": "https://www.baseball-reference.com/players/a/alforan01.shtml",
+    "player": "Anthony Alford"
+  },
+  {
+    "id": 658,
+    "url": "https://www.baseball-reference.com/players/r/raleica01.shtml",
+    "player": "Cal Raleigh"
+  },
+  {
+    "id": 659,
+    "url": "https://www.baseball-reference.com/players/n/nogowjo01.shtml",
+    "player": "John Nogowski"
+  },
+  {
+    "id": 660,
+    "url": "https://www.baseball-reference.com/players/w/williju02.shtml",
+    "player": "Justin Williams"
+  },
+  {
+    "id": 661,
+    "url": "https://www.baseball-reference.com/players/s/schroma01.shtml",
+    "player": "Max Schrock"
+  },
+  {
+    "id": 662,
+    "url": "https://www.baseball-reference.com/players/c/clemeer01.shtml",
+    "player": "Ernie Clement"
+  },
+  {
+    "id": 663,
+    "url": "https://www.baseball-reference.com/players/t/tomka01.shtml",
+    "player": "Ka'ai Tom"
+  },
+  {
+    "id": 664,
+    "url": "https://www.baseball-reference.com/players/e/estrath01.shtml",
+    "player": "Thairo Estrada"
+  },
+  {
+    "id": 665,
+    "url": "https://www.baseball-reference.com/players/m/matonni01.shtml",
+    "player": "Nick Maton"
+  },
+  {
+    "id": 666,
+    "url": "https://www.baseball-reference.com/players/d/diazle01.shtml",
+    "player": "Lewin D\u00c3\u00adaz"
+  },
+  {
+    "id": 667,
+    "url": "https://www.baseball-reference.com/players/n/nootbla01.shtml",
+    "player": "Lars Nootbaar"
+  },
+  {
+    "id": 668,
+    "url": "https://www.baseball-reference.com/players/a/adamsri03.shtml",
+    "player": "Riley Adams"
+  },
+  {
+    "id": 669,
+    "url": "https://www.baseball-reference.com/players/g/garciro02.shtml",
+    "player": "Robel Garc\u00c3\u00ada"
+  },
+  {
+    "id": 670,
+    "url": "https://www.baseball-reference.com/players/c/camerda01.shtml",
+    "player": "Daz Cameron"
+  },
+  {
+    "id": 671,
+    "url": "https://www.baseball-reference.com/players/d/duranja01.shtml",
+    "player": "Jarren Duran"
+  },
+  {
+    "id": 672,
+    "url": "https://www.baseball-reference.com/players/j/jonesta01.shtml",
+    "player": "Taylor Jones"
+  },
+  {
+    "id": 673,
+    "url": "https://www.baseball-reference.com/players/w/willilu01.shtml",
+    "player": "Luke Williams"
+  },
+  {
+    "id": 674,
+    "url": "https://www.baseball-reference.com/players/b/barretr01.shtml",
+    "player": "Tres Barrera"
+  },
+  {
+    "id": 675,
+    "url": "https://www.baseball-reference.com/players/g/garliky01.shtml",
+    "player": "Kyle Garlick"
+  },
+  {
+    "id": 676,
+    "url": "https://www.baseball-reference.com/players/y/youngan02.shtml",
+    "player": "Andrew Young"
+  },
+  {
+    "id": 677,
+    "url": "https://www.baseball-reference.com/players/z/zavalse01.shtml",
+    "player": "Seby Zavala"
+  },
+  {
+    "id": 678,
+    "url": "https://www.baseball-reference.com/players/d/davisjo05.shtml",
+    "player": "Jonathan Davis"
+  },
+  {
+    "id": 679,
+    "url": "https://www.baseball-reference.com/players/r/riverem01.shtml",
+    "player": "Marcus Semien"
+  },
+  {
+    "id": 680,
+    "url": "https://www.baseball-reference.com/players/k/kwanst01.shtml",
+    "player": "Steven Kwan"
+  },
+  {
+    "id": 681,
+    "url": "https://www.baseball-reference.com/players/w/wittbo02.shtml",
+    "player": "Bobby Witt Jr."
+  },
+  {
+    "id": 682,
+    "url": "https://www.baseball-reference.com/players/r/rodriju01.shtml",
+    "player": "Julio Rodr\u00c3\u00adguez"
+  },
+  {
+    "id": 683,
+    "url": "https://www.baseball-reference.com/players/p/penaje02.shtml",
+    "player": "Jeremy Pe\u00c3\u00b1a"
+  },
+  {
+    "id": 684,
+    "url": "https://www.baseball-reference.com/players/m/melenmj01.shtml",
+    "player": "MJ Melendez"
+  },
+  {
+    "id": 685,
+    "url": "https://www.baseball-reference.com/players/p/perdoge01.shtml",
+    "player": "Geraldo Perdomo"
+  },
+  {
+    "id": 686,
+    "url": "https://www.baseball-reference.com/players/m/miranjo01.shtml",
+    "player": "Jos\u00c3\u00a9 Miranda"
+  },
+  {
+    "id": 687,
+    "url": "https://www.baseball-reference.com/players/r/rutscad01.shtml",
+    "player": "Adley Rutschman"
+  },
+  {
+    "id": 688,
+    "url": "https://www.baseball-reference.com/players/d/donovbr01.shtml",
+    "player": "Brendan Donovan"
+  },
+  {
+    "id": 689,
+    "url": "https://www.baseball-reference.com/players/s/stottbr01.shtml",
+    "player": "Bryson Stott"
+  },
+  {
+    "id": 690,
+    "url": "https://www.baseball-reference.com/players/s/suzukse01.shtml",
+    "player": "Seiya Suzuki"
+  },
+  {
+    "id": 691,
+    "url": "https://www.baseball-reference.com/players/h/harrimi04.shtml",
+    "player": "Michael Harris II"
+  },
+  {
+    "id": 692,
+    "url": "https://www.baseball-reference.com/players/r/ruizke01.shtml",
+    "player": "Keibert Ruiz"
+  },
+  {
+    "id": 693,
+    "url": "https://www.baseball-reference.com/players/m/morelch01.shtml",
+    "player": "Christopher Morel"
+  },
+  {
+    "id": 694,
+    "url": "https://www.baseball-reference.com/players/g/greenri03.shtml",
+    "player": "Riley Greene"
+  },
+  {
+    "id": 695,
+    "url": "https://www.baseball-reference.com/players/t/thomaal01.shtml",
+    "player": "Alek Thomas"
+  },
+  {
+    "id": 696,
+    "url": "https://www.baseball-reference.com/players/t/torkesp01.shtml",
+    "player": "Spencer Torkelson"
+  },
+  {
+    "id": 697,
+    "url": "https://www.baseball-reference.com/players/g/gonzaos01.shtml",
+    "player": "Oscar Gonz\u00c3\u00a1lez"
+  },
+  {
+    "id": 698,
+    "url": "https://www.baseball-reference.com/players/s/suwinja01.shtml",
+    "player": "Jack Suwinski"
+  },
+  {
+    "id": 699,
+    "url": "https://www.baseball-reference.com/players/c/cruzon01.shtml",
+    "player": "Oneil Cruz"
+  },
+  {
+    "id": 700,
+    "url": "https://www.baseball-reference.com/players/v/vierlma01.shtml",
+    "player": "Matt Vierling"
+  },
+  {
+    "id": 701,
+    "url": "https://www.baseball-reference.com/players/m/mccarja02.shtml",
+    "player": "Jake McCarthy"
+  },
+  {
+    "id": 702,
+    "url": "https://www.baseball-reference.com/players/g/gonzalu03.shtml",
+    "player": "Luis Gonz\u00c3\u00a1lez"
+  },
+  {
+    "id": 703,
+    "url": "https://www.baseball-reference.com/players/v/velazan01.shtml",
+    "player": "Andrew Velazquez"
+  },
+  {
+    "id": 704,
+    "url": "https://www.baseball-reference.com/players/c/celesgi01.shtml",
+    "player": "Gilberto Celestino"
+  },
+  {
+    "id": 705,
+    "url": "https://www.baseball-reference.com/players/b/bethach01.shtml",
+    "player": "Christian Bethancourt"
+  },
+  {
+    "id": 706,
+    "url": "https://www.baseball-reference.com/players/a/allenni02.shtml",
+    "player": "Nick Allen"
+  },
+  {
+    "id": 707,
+    "url": "https://www.baseball-reference.com/players/s/sirijo01.shtml",
+    "player": "Jose Siri"
+  },
+  {
+    "id": 708,
+    "url": "https://www.baseball-reference.com/players/g/gormano01.shtml",
+    "player": "Nolan Gorman"
+  },
+  {
+    "id": 709,
+    "url": "https://www.baseball-reference.com/players/a/abramcj01.shtml",
+    "player": "CJ Abrams"
+  },
+  {
+    "id": 710,
+    "url": "https://www.baseball-reference.com/players/p/pasquvi01.shtml",
+    "player": "Vinnie Pasquantino"
+  },
+  {
+    "id": 711,
+    "url": "https://www.baseball-reference.com/players/n/neusesh01.shtml",
+    "player": "Sheldon Neuse"
+  },
+  {
+    "id": 712,
+    "url": "https://www.baseball-reference.com/players/r/rivasal01.shtml",
+    "player": "Alfonso Rivas III"
+  },
+  {
+    "id": 713,
+    "url": "https://www.baseball-reference.com/players/c/castidi02.shtml",
+    "player": "Diego Castillo"
+  },
+  {
+    "id": 714,
+    "url": "https://www.baseball-reference.com/players/c/castrro01.shtml",
+    "player": "Rodolfo Castro"
+  },
+  {
+    "id": 715,
+    "url": "https://www.baseball-reference.com/players/i/isbelky01.shtml",
+    "player": "Kyle Isbel"
+  },
+  {
+    "id": 716,
+    "url": "https://www.baseball-reference.com/players/y/yepezju01.shtml",
+    "player": "Juan Yepez"
+  },
+  {
+    "id": 717,
+    "url": "https://www.baseball-reference.com/players/r/reynoma03.shtml",
+    "player": "Matt Reynolds"
+  },
+  {
+    "id": 718,
+    "url": "https://www.baseball-reference.com/players/p/pachecr01.shtml",
+    "player": "Cristian Pache"
+  },
+  {
+    "id": 719,
+    "url": "https://www.baseball-reference.com/players/f/friedtj01.shtml",
+    "player": "TJ Friedl"
+  },
+  {
+    "id": 720,
+    "url": "https://www.baseball-reference.com/players/m/machivi01.shtml",
+    "player": "Vimael Mach\u00c3\u00adn"
+  },
+  {
+    "id": 721,
+    "url": "https://www.baseball-reference.com/players/s/smithjo11.shtml",
+    "player": "Josh Smith"
+  },
+  {
+    "id": 722,
+    "url": "https://www.baseball-reference.com/players/f/forteni01.shtml",
+    "player": "Nick Fortes"
+  },
+  {
+    "id": 723,
+    "url": "https://www.baseball-reference.com/players/m/menesjo01.shtml",
+    "player": "Joey Meneses"
+  },
+  {
+    "id": 724,
+    "url": "https://www.baseball-reference.com/players/b/bledajj01.shtml",
+    "player": "JJ Bleday"
+  },
+  {
+    "id": 725,
+    "url": "https://www.baseball-reference.com/players/m/mitchca01.shtml",
+    "player": "Calvin Mitchell"
+  },
+  {
+    "id": 726,
+    "url": "https://www.baseball-reference.com/players/h/higgipj01.shtml",
+    "player": "P.J. Higgins"
+  },
+  {
+    "id": 727,
+    "url": "https://www.baseball-reference.com/players/d/duranez01.shtml",
+    "player": "Ezequiel Dur\u00c3\u00a1n"
+  },
+  {
+    "id": 728,
+    "url": "https://www.baseball-reference.com/players/a/azocajo01.shtml",
+    "player": "Jos\u00c3\u00a9 Az\u00c3\u00b3car"
+  },
+  {
+    "id": 729,
+    "url": "https://www.baseball-reference.com/players/v/velazne01.shtml",
+    "player": "Nelson Vel\u00c3\u00a1zquez"
+  },
+  {
+    "id": 730,
+    "url": "https://www.baseball-reference.com/players/s/servebr01.shtml",
+    "player": "Brian Serven"
+  },
+  {
+    "id": 731,
+    "url": "https://www.baseball-reference.com/players/h/haggesa01.shtml",
+    "player": "Sam Haggerty"
+  },
+  {
+    "id": 732,
+    "url": "https://www.baseball-reference.com/players/h/hummeco01.shtml",
+    "player": "Cooper Hummel"
+  },
+  {
+    "id": 733,
+    "url": "https://www.baseball-reference.com/players/l/lowejo01.shtml",
+    "player": "Josh Lowe"
+  },
+  {
+    "id": 734,
+    "url": "https://www.baseball-reference.com/players/m/massemi02.shtml",
+    "player": "Michael Massey"
+  },
+  {
+    "id": 735,
+    "url": "https://www.baseball-reference.com/players/b/bridejo01.shtml",
+    "player": "Jonah Bride"
+  },
+  {
+    "id": 736,
+    "url": "https://www.baseball-reference.com/players/m/monteel01.shtml",
+    "player": "Elehuris Montero"
+  },
+  {
+    "id": 737,
+    "url": "https://www.baseball-reference.com/players/n/nevinty01.shtml",
+    "player": "Tyler Nevin"
+  },
+  {
+    "id": 738,
+    "url": "https://www.baseball-reference.com/players/b/burgeja01.shtml",
+    "player": "Jake Burger"
+  },
+  {
+    "id": 739,
+    "url": "https://www.baseball-reference.com/players/p/prattni01.shtml",
+    "player": "Nick Pratto"
+  },
+  {
+    "id": 740,
+    "url": "https://www.baseball-reference.com/players/t/thompbu01.shtml",
+    "player": "Bubba Thompson"
+  },
+  {
+    "id": 741,
+    "url": "https://www.baseball-reference.com/players/v/villada01.shtml",
+    "player": "David Villar"
+  },
+  {
+    "id": 742,
+    "url": "https://www.baseball-reference.com/players/m/marcatu01.shtml",
+    "player": "Tucupita Marcano"
+  },
+  {
+    "id": 743,
+    "url": "https://www.baseball-reference.com/players/g/garcijo02.shtml",
+    "player": "Jose Barrero"
+  },
+  {
+    "id": 744,
+    "url": "https://www.baseball-reference.com/players/h/heinety01.shtml",
+    "player": "Tyler Heineman"
+  },
+  {
+    "id": 745,
+    "url": "https://www.baseball-reference.com/players/c/cabreos01.shtml",
+    "player": "Oswaldo Cabrera"
+  },
+  {
+    "id": 746,
+    "url": "https://www.baseball-reference.com/players/l/leblach01.shtml",
+    "player": "Charles Leblanc"
+  },
+  {
+    "id": 747,
+    "url": "https://www.baseball-reference.com/players/d/delayja01.shtml",
+    "player": "Jason Delay"
+  },
+  {
+    "id": 748,
+    "url": "https://www.baseball-reference.com/players/b/brujavi01.shtml",
+    "player": "Vidal Bruj\u00c3\u00a1n"
+  },
+  {
+    "id": 749,
+    "url": "https://www.baseball-reference.com/players/g/grissva01.shtml",
+    "player": "Vaughn Grissom"
+  },
+  {
+    "id": 750,
+    "url": "https://www.baseball-reference.com/players/l/lopezal03.shtml",
+    "player": "Alejo L\u00c3\u00b3pez"
+  },
+  {
+    "id": 751,
+    "url": "https://www.baseball-reference.com/players/l/langesh01.shtml",
+    "player": "Shea Langeliers"
+  },
+  {
+    "id": 752,
+    "url": "https://www.baseball-reference.com/players/s/smithke05.shtml",
+    "player": "Kevin Smith"
+  },
+  {
+    "id": 753,
+    "url": "https://www.baseball-reference.com/players/h/hallda02.shtml",
+    "player": "Darick Hall"
+  },
+  {
+    "id": 754,
+    "url": "https://www.baseball-reference.com/players/h/hendegu01.shtml",
+    "player": "Gunnar Henderson"
+  },
+  {
+    "id": 755,
+    "url": "https://www.baseball-reference.com/players/h/huffsa01.shtml",
+    "player": "Sam Huff"
+  },
+  {
+    "id": 756,
+    "url": "https://www.baseball-reference.com/players/c/callal02.shtml",
+    "player": "Alex Call"
+  },
+  {
+    "id": 757,
+    "url": "https://www.baseball-reference.com/players/c/clemeko01.shtml",
+    "player": "Kody Clemens"
+  },
+  {
+    "id": 758,
+    "url": "https://www.baseball-reference.com/players/b/beerse01.shtml",
+    "player": "Seth Beer"
+  },
+  {
+    "id": 759,
+    "url": "https://www.baseball-reference.com/players/g/garcide02.shtml",
+    "player": "D\u00c3\u00a9rmis Garcia"
+  },
+  {
+    "id": 760,
+    "url": "https://www.baseball-reference.com/players/t/trejoal01.shtml",
+    "player": "Alan Trejo"
+  },
+  {
+    "id": 761,
+    "url": "https://www.baseball-reference.com/players/h/herrejo04.shtml",
+    "player": "Jos\u00c3\u00a9 Herrera"
+  },
+  {
+    "id": 762,
+    "url": "https://www.baseball-reference.com/players/m/madribl01.shtml",
+    "player": "Bligh Madris"
+  },
+  {
+    "id": 763,
+    "url": "https://www.baseball-reference.com/players/p/palacri01.shtml",
+    "player": "Richie Palacios"
+  },
+  {
+    "id": 764,
+    "url": "https://www.baseball-reference.com/players/e/eatonna01.shtml",
+    "player": "Nate Eaton"
+  },
+  {
+    "id": 765,
+    "url": "https://www.baseball-reference.com/players/s/stubbga01.shtml",
+    "player": "Garrett Stubbs"
+  },
+  {
+    "id": 766,
+    "url": "https://www.baseball-reference.com/players/t/toglimi01.shtml",
+    "player": "Michael Toglia"
+  },
+  {
+    "id": 767,
+    "url": "https://www.baseball-reference.com/players/b/boltsk01.shtml",
+    "player": "Skye Bolt"
+  },
+  {
+    "id": 768,
+    "url": "https://www.baseball-reference.com/players/c/carroco02.shtml",
+    "player": "Corbin Carroll"
+  },
+  {
+    "id": 769,
+    "url": "https://www.baseball-reference.com/players/g/garciar01.shtml",
+    "player": "Aramis Garcia"
+  },
+  {
+    "id": 770,
+    "url": "https://www.baseball-reference.com/players/c/carpeke01.shtml",
+    "player": "Kerry Carpenter"
+  },
+  {
+    "id": 771,
+    "url": "https://www.baseball-reference.com/players/m/moniami01.shtml",
+    "player": "Mickey Moniak"
+  },
+  {
+    "id": 772,
+    "url": "https://www.baseball-reference.com/players/v/vosleja01.shtml",
+    "player": "Jason Vosler"
+  },
+  {
+    "id": 773,
+    "url": "https://www.baseball-reference.com/players/f/faircst01.shtml",
+    "player": "Stuart Fairchild"
+  },
+  {
+    "id": 774,
+    "url": "https://www.baseball-reference.com/players/g/gonzaro01.shtml",
+    "player": "Romy Gonz\u00c3\u00a1lez"
+  },
+  {
+    "id": 775,
+    "url": "https://www.baseball-reference.com/players/w/waterdr01.shtml",
+    "player": "Drew Waters"
+  },
+  {
+    "id": 776,
+    "url": "https://www.baseball-reference.com/players/s/steersp01.shtml",
+    "player": "Spencer Steer"
+  },
+  {
+    "id": 777,
+    "url": "https://www.baseball-reference.com/players/v/vavrate01.shtml",
+    "player": "Terrin Vavra"
+  },
+  {
+    "id": 778,
+    "url": "https://www.baseball-reference.com/players/p/papiemi01.shtml",
+    "player": "Michael Papierski"
+  },
+  {
+    "id": 779,
+    "url": "https://www.baseball-reference.com/players/b/burdipe01.shtml",
+    "player": "Peyton Burdick"
+  },
+  {
+    "id": 780,
+    "url": "https://www.baseball-reference.com/players/j/jungjo01.shtml",
+    "player": "Josh Jung"
+  },
+  {
+    "id": 781,
+    "url": "https://www.baseball-reference.com/players/s/stoweky01.shtml",
+    "player": "Marcus Semien"
+  },
+  {
+    "id": 782,
+    "url": "https://www.baseball-reference.com/players/t/tovarez01.shtml",
+    "player": "Ezequiel Tovar"
+  },
+  {
+    "id": 783,
+    "url": "https://www.baseball-reference.com/players/v/volpean01.shtml",
+    "player": "Anthony Volpe"
+  },
+  {
+    "id": 784,
+    "url": "https://www.baseball-reference.com/players/y/yoshima02.shtml",
+    "player": "Masataka Yoshida"
+  },
+  {
+    "id": 785,
+    "url": "https://www.baseball-reference.com/players/o/outmaja01.shtml",
+    "player": "James Outman"
+  },
+  {
+    "id": 786,
+    "url": "https://www.baseball-reference.com/players/g/garcima01.shtml",
+    "player": "Maikel Garcia"
+  },
+  {
+    "id": 787,
+    "url": "https://www.baseball-reference.com/players/c/casastr01.shtml",
+    "player": "Triston Casas"
+  },
+  {
+    "id": 788,
+    "url": "https://www.baseball-reference.com/players/r/ruizes01.shtml",
+    "player": "Esteury Ruiz"
+  },
+  {
+    "id": 789,
+    "url": "https://www.baseball-reference.com/players/n/nodary01.shtml",
+    "player": "Ryan Noda"
+  },
+  {
+    "id": 790,
+    "url": "https://www.baseball-reference.com/players/w/walkejo02.shtml",
+    "player": "Jordan Walker"
+  },
+  {
+    "id": 791,
+    "url": "https://www.baseball-reference.com/players/b/brennwi02.shtml",
+    "player": "Will Brennan"
+  },
+  {
+    "id": 792,
+    "url": "https://www.baseball-reference.com/players/t/turanbr02.shtml",
+    "player": "Brice Turang"
+  },
+  {
+    "id": 793,
+    "url": "https://www.baseball-reference.com/players/d/doylebr02.shtml",
+    "player": "Brenton Doyle"
+  },
+  {
+    "id": 794,
+    "url": "https://www.baseball-reference.com/players/d/delacel01.shtml",
+    "player": "Elly De La Cruz"
+  },
+  {
+    "id": 795,
+    "url": "https://www.baseball-reference.com/players/j/jonesno01.shtml",
+    "player": "Nolan Jones"
+  },
+  {
+    "id": 796,
+    "url": "https://www.baseball-reference.com/players/a/alvarfr01.shtml",
+    "player": "Francisco Alvarez"
+  },
+  {
+    "id": 797,
+    "url": "https://www.baseball-reference.com/players/w/wiemejo01.shtml",
+    "player": "Joey Wiemer"
+  },
+  {
+    "id": 798,
+    "url": "https://www.baseball-reference.com/players/j/julieed01.shtml",
+    "player": "Edouard Julien"
+  },
+  {
+    "id": 799,
+    "url": "https://www.baseball-reference.com/players/r/raleylu01.shtml",
+    "player": "Luke Raley"
+  },
+  {
+    "id": 800,
+    "url": "https://www.baseball-reference.com/players/m/mclaima01.shtml",
+    "player": "Matt McLain"
+  },
+  {
+    "id": 801,
+    "url": "https://www.baseball-reference.com/players/w/wongco01.shtml",
+    "player": "Connor Wong"
+  },
+  {
+    "id": 802,
+    "url": "https://www.baseball-reference.com/players/b/batybr01.shtml",
+    "player": "Brett Baty"
+  },
+  {
+    "id": 803,
+    "url": "https://www.baseball-reference.com/players/m/morenga01.shtml",
+    "player": "Gabriel Moreno"
+  },
+  {
+    "id": 804,
+    "url": "https://www.baseball-reference.com/players/d/diazya02.shtml",
+    "player": "Yainer Diaz"
+  },
+  {
+    "id": 805,
+    "url": "https://www.baseball-reference.com/players/b/baeji01.shtml",
+    "player": "Ji Hwan Bae"
+  },
+  {
+    "id": 806,
+    "url": "https://www.baseball-reference.com/players/b/bailepa01.shtml",
+    "player": "Patrick Bailey"
+  },
+  {
+    "id": 807,
+    "url": "https://www.baseball-reference.com/players/b/burleal01.shtml",
+    "player": "Alec Burleson"
+  },
+  {
+    "id": 808,
+    "url": "https://www.baseball-reference.com/players/a/ariasga01.shtml",
+    "player": "Gabriel Arias"
+  },
+  {
+    "id": 809,
+    "url": "https://www.baseball-reference.com/players/s/sabolbl01.shtml",
+    "player": "Blake Sabol"
+  },
+  {
+    "id": 810,
+    "url": "https://www.baseball-reference.com/players/b/bensowi01.shtml",
+    "player": "Will Benson"
+  },
+  {
+    "id": 811,
+    "url": "https://www.baseball-reference.com/players/n/netoza01.shtml",
+    "player": "Zach Neto"
+  },
+  {
+    "id": 812,
+    "url": "https://www.baseball-reference.com/players/j/julksco01.shtml",
+    "player": "Corey Julks"
+  },
+  {
+    "id": 813,
+    "url": "https://www.baseball-reference.com/players/m/monasan01.shtml",
+    "player": "Andruw Monasterio"
+  },
+  {
+    "id": 814,
+    "url": "https://www.baseball-reference.com/players/v/vargami01.shtml",
+    "player": "Miguel Vargas"
+  },
+  {
+    "id": 815,
+    "url": "https://www.baseball-reference.com/players/g/gelofza01.shtml",
+    "player": "Zack Gelof"
+  },
+  {
+    "id": 816,
+    "url": "https://www.baseball-reference.com/players/d/diazjo03.shtml",
+    "player": "Jordan Diaz"
+  },
+  {
+    "id": 817,
+    "url": "https://www.baseball-reference.com/players/c/cabaljo01.shtml",
+    "player": "Jos\u00c3\u00a9 Caballero"
+  },
+  {
+    "id": 818,
+    "url": "https://www.baseball-reference.com/players/s/schmica01.shtml",
+    "player": "Casey Schmitt"
+  },
+  {
+    "id": 819,
+    "url": "https://www.baseball-reference.com/players/g/garrest01.shtml",
+    "player": "Stone Garrett"
+  },
+  {
+    "id": 820,
+    "url": "https://www.baseball-reference.com/players/p/palacjo01.shtml",
+    "player": "Joshua Palacios"
+  },
+  {
+    "id": 821,
+    "url": "https://www.baseball-reference.com/players/c/colasos01.shtml",
+    "player": "Oscar Col\u00c3\u00a1s"
+  },
+  {
+    "id": 822,
+    "url": "https://www.baseball-reference.com/players/d/davishe01.shtml",
+    "player": "Henry Davis"
+  },
+  {
+    "id": 823,
+    "url": "https://www.baseball-reference.com/players/w/wallnma01.shtml",
+    "player": "Matt Wallner"
+  },
+  {
+    "id": 824,
+    "url": "https://www.baseball-reference.com/players/m/matoslu02.shtml",
+    "player": "Luis Matos"
+  },
+  {
+    "id": 825,
+    "url": "https://www.baseball-reference.com/players/e/encarch01.shtml",
+    "player": "Christian Encarnacion-Strand"
+  },
+  {
+    "id": 826,
+    "url": "https://www.baseball-reference.com/players/l/lewisro02.shtml",
+    "player": "Royce Lewis"
+  },
+  {
+    "id": 827,
+    "url": "https://www.baseball-reference.com/players/f/fermifr01.shtml",
+    "player": "Freddy Fermin"
+  },
+  {
+    "id": 828,
+    "url": "https://www.baseball-reference.com/players/v/vientma01.shtml",
+    "player": "Mark Vientos"
+  },
+  {
+    "id": 829,
+    "url": "https://www.baseball-reference.com/players/n/naylobo01.shtml",
+    "player": "Bo Naylor"
+  },
+  {
+    "id": 830,
+    "url": "https://www.baseball-reference.com/players/w/westbjo01.shtml",
+    "player": "Jordan Westburg"
+  },
+  {
+    "id": 831,
+    "url": "https://www.baseball-reference.com/players/f/frelisa01.shtml",
+    "player": "Sal Frelick"
+  },
+  {
+    "id": 832,
+    "url": "https://www.baseball-reference.com/players/p/pegueli01.shtml",
+    "player": "Liover Peguero"
+  },
+  {
+    "id": 833,
+    "url": "https://www.baseball-reference.com/players/t/triolja01.shtml",
+    "player": "Jared Triolo"
+  },
+  {
+    "id": 834,
+    "url": "https://www.baseball-reference.com/players/r/rodrien01.shtml",
+    "player": "Endy Rodr\u00c3\u00adguez"
+  },
+  {
+    "id": 835,
+    "url": "https://www.baseball-reference.com/players/o/ohopplo01.shtml",
+    "player": "Logan O'Hoppe"
+  },
+  {
+    "id": 836,
+    "url": "https://www.baseball-reference.com/players/p/perazos02.shtml",
+    "player": "Oswald Peraza"
+  },
+  {
+    "id": 837,
+    "url": "https://www.baseball-reference.com/players/p/perezca02.shtml",
+    "player": "Carlos P\u00c3\u00a9rez"
+  },
+  {
+    "id": 838,
+    "url": "https://www.baseball-reference.com/players/c/canzodo01.shtml",
+    "player": "Dominic Canzone"
+  },
+  {
+    "id": 839,
+    "url": "https://www.baseball-reference.com/players/a/aluja01.shtml",
+    "player": "Jake Alu"
+  },
+  {
+    "id": 840,
+    "url": "https://www.baseball-reference.com/players/c/campulu01.shtml",
+    "player": "Luis Campusano"
+  },
+  {
+    "id": 841,
+    "url": "https://www.baseball-reference.com/players/s/sosale01.shtml",
+    "player": "Lenyn Sosa"
+  },
+  {
+    "id": 842,
+    "url": "https://www.baseball-reference.com/players/w/wallach01.shtml",
+    "player": "Chad Wallach"
+  },
+  {
+    "id": 843,
+    "url": "https://www.baseball-reference.com/players/f/freemty01.shtml",
+    "player": "Tyler Freeman"
+  },
+  {
+    "id": 844,
+    "url": "https://www.baseball-reference.com/players/p/perkibl01.shtml",
+    "player": "Blake Perkins"
+  },
+  {
+    "id": 845,
+    "url": "https://www.baseball-reference.com/players/r/rojasjo03.shtml",
+    "player": "Johan Rojas"
+  },
+  {
+    "id": 846,
+    "url": "https://www.baseball-reference.com/players/r/remilza01.shtml",
+    "player": "Zach Remillard"
+  },
+  {
+    "id": 847,
+    "url": "https://www.baseball-reference.com/players/a/amayami01.shtml",
+    "player": "Miguel Amaya"
+  },
+  {
+    "id": 848,
+    "url": "https://www.baseball-reference.com/players/m/mastrmi01.shtml",
+    "player": "Miles Mastrobuoni"
+  },
+  {
+    "id": 849,
+    "url": "https://www.baseball-reference.com/players/v/valdeen01.shtml",
+    "player": "Enmanuel Vald\u00c3\u00a9z"
+  },
+  {
+    "id": 850,
+    "url": "https://www.baseball-reference.com/players/m/meadopa01.shtml",
+    "player": "Parker Meadows"
+  },
+  {
+    "id": 851,
+    "url": "https://www.baseball-reference.com/players/s/schneda03.shtml",
+    "player": "Davis Schneider"
+  },
+  {
+    "id": 852,
+    "url": "https://www.baseball-reference.com/players/b/battema01.shtml",
+    "player": "Matthew Batten"
+  },
+  {
+    "id": 853,
+    "url": "https://www.baseball-reference.com/players/b/blancda02.shtml",
+    "player": "Dairon Blanco"
+  },
+  {
+    "id": 854,
+    "url": "https://www.baseball-reference.com/players/s/soderty01.shtml",
+    "player": "Tyler Soderstrom"
+  },
+  {
+    "id": 855,
+    "url": "https://www.baseball-reference.com/players/w/winnma01.shtml",
+    "player": "Masyn Winn"
+  },
+  {
+    "id": 856,
+    "url": "https://www.baseball-reference.com/players/s/schanno01.shtml",
+    "player": "Nolan Schanuel"
+  },
+  {
+    "id": 857,
+    "url": "https://www.baseball-reference.com/players/w/wiselbr01.shtml",
+    "player": "Brett Wisely"
+  },
+  {
+    "id": 858,
+    "url": "https://www.baseball-reference.com/players/b/butlela01.shtml",
+    "player": "Lawrence Butler"
+  },
+  {
+    "id": 859,
+    "url": "https://www.baseball-reference.com/players/g/gonzani01.shtml",
+    "player": "Nick Gonzales"
+  },
+  {
+    "id": 860,
+    "url": "https://www.baseball-reference.com/players/m/marteno01.shtml",
+    "player": "Noelvi Mart\u00c3\u00a9"
+  },
+  {
+    "id": 861,
+    "url": "https://www.baseball-reference.com/players/y/youngja03.shtml",
+    "player": "Jacob Young"
+  },
+  {
+    "id": 862,
+    "url": "https://www.baseball-reference.com/players/f/fryda01.shtml",
+    "player": "David Fry"
+  },
+  {
+    "id": 863,
+    "url": "https://www.baseball-reference.com/players/w/willial04.shtml",
+    "player": "Alika Williams"
+  },
+  {
+    "id": 864,
+    "url": "https://www.baseball-reference.com/players/m/mauriro01.shtml",
+    "player": "Ronny Mauricio"
+  },
+  {
+    "id": 865,
+    "url": "https://www.baseball-reference.com/players/p/pintore02.shtml",
+    "player": "Ren\u00c3\u00a9 Pinto"
+  },
+  {
+    "id": 866,
+    "url": "https://www.baseball-reference.com/players/s/singljo02.shtml",
+    "player": "Jon Singleton"
+  },
+  {
+    "id": 867,
+    "url": "https://www.baseball-reference.com/players/a/arandjo01.shtml",
+    "player": "Jonathan Aranda"
+  },
+  {
+    "id": 868,
+    "url": "https://www.baseball-reference.com/players/p/pereiev01.shtml",
+    "player": "Everson Pereira"
+  },
+  {
+    "id": 869,
+    "url": "https://www.baseball-reference.com/players/f/fletcdo01.shtml",
+    "player": "Dominic Fletcher"
+  },
+  {
+    "id": 870,
+    "url": "https://www.baseball-reference.com/players/m/marloca01.shtml",
+    "player": "Cade Marlowe"
+  },
+  {
+    "id": 871,
+    "url": "https://www.baseball-reference.com/players/b/bakerlu01.shtml",
+    "player": "Jarren Duran"
+  },
+  {
+    "id": 872,
+    "url": "https://www.baseball-reference.com/players/m/merrija01.shtml",
+    "player": "Jackson Merrill"
+  },
+  {
+    "id": 873,
+    "url": "https://www.baseball-reference.com/players/c/chourja01.shtml",
+    "player": "Jackson Chourio"
+  },
+  {
+    "id": 874,
+    "url": "https://www.baseball-reference.com/players/r/rafaece01.shtml",
+    "player": "Ceddanne Rafaela"
+  },
+  {
+    "id": 875,
+    "url": "https://www.baseball-reference.com/players/b/buschmi02.shtml",
+    "player": "Michael Busch"
+  },
+  {
+    "id": 876,
+    "url": "https://www.baseball-reference.com/players/c/cowseco01.shtml",
+    "player": "Colton Cowser"
+  },
+  {
+    "id": 877,
+    "url": "https://www.baseball-reference.com/players/l/langfwy01.shtml",
+    "player": "Wyatt Langford"
+  },
+  {
+    "id": 878,
+    "url": "https://www.baseball-reference.com/players/k/keithco01.shtml",
+    "player": "Colt Keith"
+  },
+  {
+    "id": 879,
+    "url": "https://www.baseball-reference.com/players/r/ramoshe02.shtml",
+    "player": "Heliot Ramos"
+  },
+  {
+    "id": 880,
+    "url": "https://www.baseball-reference.com/players/o/ortizjo06.shtml",
+    "player": "Joey Ortiz"
+  },
+  {
+    "id": 881,
+    "url": "https://www.baseball-reference.com/players/s/schuema01.shtml",
+    "player": "Max Schuemann"
+  },
+  {
+    "id": 882,
+    "url": "https://www.baseball-reference.com/players/a/abreuwi02.shtml",
+    "player": "Wilyer Abreu"
+  },
+  {
+    "id": 883,
+    "url": "https://www.baseball-reference.com/players/p/pagesan01.shtml",
+    "player": "Andy Pages"
+  },
+  {
+    "id": 884,
+    "url": "https://www.baseball-reference.com/players/r/rocchbr01.shtml",
+    "player": "Brayan Rocchio"
+  },
+  {
+    "id": 885,
+    "url": "https://www.baseball-reference.com/players/l/lopezot01.shtml",
+    "player": "Otto L\u00c3\u00b3pez"
+  },
+  {
+    "id": 886,
+    "url": "https://www.baseball-reference.com/players/p/perezwe01.shtml",
+    "player": "Wenceel P\u00c3\u00a9rez"
+  },
+  {
+    "id": 887,
+    "url": "https://www.baseball-reference.com/players/w/wellsau01.shtml",
+    "player": "Austin Wells"
+  },
+  {
+    "id": 888,
+    "url": "https://www.baseball-reference.com/players/c/crowape01.shtml",
+    "player": "Pete Crow-Armstrong"
+  },
+  {
+    "id": 889,
+    "url": "https://www.baseball-reference.com/players/l/leeko01.shtml",
+    "player": "Korey Lee"
+  },
+  {
+    "id": 890,
+    "url": "https://www.baseball-reference.com/players/h/horwisp01.shtml",
+    "player": "Spencer Horwitz"
+  },
+  {
+    "id": 891,
+    "url": "https://www.baseball-reference.com/players/d/delucjo01.shtml",
+    "player": "Jonny DeLuca"
+  },
+  {
+    "id": 892,
+    "url": "https://www.baseball-reference.com/players/f/fitzgty01.shtml",
+    "player": "Tyler Fitzgerald"
+  },
+  {
+    "id": 893,
+    "url": "https://www.baseball-reference.com/players/w/woodja03.shtml",
+    "player": "James Wood"
+  },
+  {
+    "id": 894,
+    "url": "https://www.baseball-reference.com/players/s/sianimi01.shtml",
+    "player": "Michael Siani"
+  },
+  {
+    "id": 895,
+    "url": "https://www.baseball-reference.com/players/r/rortvbe01.shtml",
+    "player": "Ben Rortvedt"
+  },
+  {
+    "id": 896,
+    "url": "https://www.baseball-reference.com/players/h/hamilda03.shtml",
+    "player": "David Hamilton"
+  },
+  {
+    "id": 897,
+    "url": "https://www.baseball-reference.com/players/e/edwarxa01.shtml",
+    "player": "Xavier Edwards"
+  },
+  {
+    "id": 898,
+    "url": "https://www.baseball-reference.com/players/l/loperjo01.shtml",
+    "player": "Joey Loperfido"
+  },
+  {
+    "id": 899,
+    "url": "https://www.baseball-reference.com/players/h/herreiv01.shtml",
+    "player": "Iv\u00c3\u00a1n Herrera"
+  },
+  {
+    "id": 900,
+    "url": "https://www.baseball-reference.com/players/m/martiau01.shtml",
+    "player": "Austin Martin"
+  },
+  {
+    "id": 901,
+    "url": "https://www.baseball-reference.com/players/m/malloju02.shtml",
+    "player": "Justyn-Henry Malloy"
+  },
+  {
+    "id": 902,
+    "url": "https://www.baseball-reference.com/players/b/bargead01.shtml",
+    "player": "Addison Barger"
+  },
+  {
+    "id": 903,
+    "url": "https://www.baseball-reference.com/players/g/goodmhu01.shtml",
+    "player": "Hunter Goodman"
+  },
+  {
+    "id": 904,
+    "url": "https://www.baseball-reference.com/players/m/mitchga01.shtml",
+    "player": "Garrett Mitchell"
+  },
+  {
+    "id": 905,
+    "url": "https://www.baseball-reference.com/players/s/schneda04.shtml",
+    "player": "Daniel Schneemann"
+  },
+  {
+    "id": 906,
+    "url": "https://www.baseball-reference.com/players/p/pagespe02.shtml",
+    "player": "Pedro Pag\u00c3\u00a9s"
+  },
+  {
+    "id": 907,
+    "url": "https://www.baseball-reference.com/players/l/lipsctr01.shtml",
+    "player": "Trey Lipscomb"
+  },
+  {
+    "id": 908,
+    "url": "https://www.baseball-reference.com/players/j/jimenle01.shtml",
+    "player": "Leo Jim\u00c3\u00a9nez"
+  },
+  {
+    "id": 909,
+    "url": "https://www.baseball-reference.com/players/h/hollija01.shtml",
+    "player": "Jackson Holliday"
+  },
+  {
+    "id": 910,
+    "url": "https://www.baseball-reference.com/players/n/noeljh01.shtml",
+    "player": "Jhonkensy Noel"
+  },
+  {
+    "id": 911,
+    "url": "https://www.baseball-reference.com/players/n/norbyco01.shtml",
+    "player": "Connor Norby"
+  },
+  {
+    "id": 912,
+    "url": "https://www.baseball-reference.com/players/a/alexabl01.shtml",
+    "player": "Blaze Alexander"
+  },
+  {
+    "id": 913,
+    "url": "https://www.baseball-reference.com/players/l/leebr02.shtml",
+    "player": "Brooks Lee"
+  },
+  {
+    "id": 914,
+    "url": "https://www.baseball-reference.com/players/b/beckjo01.shtml",
+    "player": "Jordan Beck"
+  },
+  {
+    "id": 915,
+    "url": "https://www.baseball-reference.com/players/r/ricebe01.shtml",
+    "player": "Ben Rice"
+  },
+  {
+    "id": 916,
+    "url": "https://www.baseball-reference.com/players/c/caminju01.shtml",
+    "player": "Junior Caminero"
+  },
+  {
+    "id": 917,
+    "url": "https://www.baseball-reference.com/players/l/loftini01.shtml",
+    "player": "Nick Loftin"
+  },
+  {
+    "id": 918,
+    "url": "https://www.baseball-reference.com/players/m/martian02.shtml",
+    "player": "\u00c3\u0081ngel Mart\u00c3\u00adnez"
+  },
+  {
+    "id": 919,
+    "url": "https://www.baseball-reference.com/players/t/tenajo01.shtml",
+    "player": "Jos\u00c3\u00a9 Tena"
+  },
+  {
+    "id": 920,
+    "url": "https://www.baseball-reference.com/players/c/carteev01.shtml",
+    "player": "Evan Carter"
+  },
+  {
+    "id": 921,
+    "url": "https://www.baseball-reference.com/players/l/leeju01.shtml",
+    "player": "Jung Hoo Lee"
+  },
+  {
+    "id": 922,
+    "url": "https://www.baseball-reference.com/players/m/mccanky01.shtml",
+    "player": "Kyle McCann"
+  },
+  {
+    "id": 923,
+    "url": "https://www.baseball-reference.com/players/m/manzaky01.shtml",
+    "player": "Kyle Manzardo"
+  },
+  {
+    "id": 924,
+    "url": "https://www.baseball-reference.com/players/s/scottvi01.shtml",
+    "player": "Victor Scott II"
+  },
+  {
+    "id": 925,
+    "url": "https://www.baseball-reference.com/players/h/hernada04.shtml",
+    "player": "Darell Hernaiz"
+  },
+  {
+    "id": 926,
+    "url": "https://www.baseball-reference.com/players/c/chapaan01.shtml",
+    "player": "Andr\u00c3\u00a9s Chaparro"
+  },
+  {
+    "id": 927,
+    "url": "https://www.baseball-reference.com/players/c/crewsdy01.shtml",
+    "player": "Dylan Crews"
+  },
+  {
+    "id": 928,
+    "url": "https://www.baseball-reference.com/players/m/meadcu01.shtml",
+    "player": "Curtis Mead"
+  },
+  {
+    "id": 929,
+    "url": "https://www.baseball-reference.com/players/m/mccragr01.shtml",
+    "player": "Grant McCray"
+  },
+  {
+    "id": 930,
+    "url": "https://www.baseball-reference.com/players/s/stefami01.shtml",
+    "player": "Michael Stefanic"
+  },
+  {
+    "id": 931,
+    "url": "https://www.baseball-reference.com/players/h/harribr02.shtml",
+    "player": "Brett Harris"
+  },
+  {
+    "id": 932,
+    "url": "https://www.baseball-reference.com/players/b/baldwbr01.shtml",
+    "player": "Brooks Baldwin"
+  },
+  {
+    "id": 933,
+    "url": "https://www.baseball-reference.com/players/e/encarje01.shtml",
+    "player": "Jerar Encarnaci\u00c3\u00b3n"
+  },
+  {
+    "id": 934,
+    "url": "https://www.baseball-reference.com/players/s/sweentr01.shtml",
+    "player": "Trey Sweeney"
+  },
+  {
+    "id": 935,
+    "url": "https://www.baseball-reference.com/players/k/kjershe01.shtml",
+    "player": "Heston Kjerstad"
+  },
+  {
+    "id": 936,
+    "url": "https://www.baseball-reference.com/players/f/flories01.shtml",
+    "player": "Estevan Florial"
+  },
+  {
+    "id": 937,
+    "url": "https://www.baseball-reference.com/players/b/bouchse01.shtml",
+    "player": "Sean Bouchard"
+  },
+  {
+    "id": 938,
+    "url": "https://www.baseball-reference.com/players/m/myersda01.shtml",
+    "player": "Dane Myers"
+  },
+  {
+    "id": 939,
+    "url": "https://www.baseball-reference.com/players/r/ramosbr01.shtml",
+    "player": "Bryan Ramos"
+  },
+  {
+    "id": 940,
+    "url": "https://www.baseball-reference.com/players/k/kavadni01.shtml",
+    "player": "Niko Kavadas"
+  },
+  {
+    "id": 941,
+    "url": "https://www.baseball-reference.com/players/d/dunnol01.shtml",
+    "player": "Oliver Dunn"
+  },
+  {
+    "id": 942,
+    "url": "https://www.baseball-reference.com/players/w/wilsoja05.shtml",
+    "player": "Jacob Wilson"
+  },
+  {
+    "id": 943,
+    "url": "https://www.baseball-reference.com/players/r/ramirag01.shtml",
+    "player": "Agust\u00c3\u00adn Ram\u00c3\u00adrez"
+  },
+  {
+    "id": 944,
+    "url": "https://www.baseball-reference.com/players/w/wagamer01.shtml",
+    "player": "Eric Wagaman"
+  },
+  {
+    "id": 945,
+    "url": "https://www.baseball-reference.com/players/d/durbica01.shtml",
+    "player": "Caleb Durbin"
+  },
+  {
+    "id": 946,
+    "url": "https://www.baseball-reference.com/players/m/meidrch01.shtml",
+    "player": "Chase Meidroth"
+  },
+  {
+    "id": 947,
+    "url": "https://www.baseball-reference.com/players/s/smithca07.shtml",
+    "player": "Cam Smith"
+  },
+  {
+    "id": 948,
+    "url": "https://www.baseball-reference.com/players/k/kurtzni01.shtml",
+    "player": "Nick Kurtz"
+  },
+  {
+    "id": 949,
+    "url": "https://www.baseball-reference.com/players/d/dingldi01.shtml",
+    "player": "Dillon Dingler"
+  },
+  {
+    "id": 950,
+    "url": "https://www.baseball-reference.com/players/b/baldwdr01.shtml",
+    "player": "Drake Baldwin"
+  },
+  {
+    "id": 951,
+    "url": "https://www.baseball-reference.com/players/n/narvaca01.shtml",
+    "player": "Carlos Narv\u00c3\u00a1ez"
+  },
+  {
+    "id": 952,
+    "url": "https://www.baseball-reference.com/players/c/colliis01.shtml",
+    "player": "Isaac Collins"
+  },
+  {
+    "id": 953,
+    "url": "https://www.baseball-reference.com/players/s/simpsch01.shtml",
+    "player": "Chandler Simpson"
+  },
+  {
+    "id": 954,
+    "url": "https://www.baseball-reference.com/players/l/lukesna01.shtml",
+    "player": "Nathan Lukes"
+  },
+  {
+    "id": 955,
+    "url": "https://www.baseball-reference.com/players/s/shawma01.shtml",
+    "player": "Matt Shaw"
+  },
+  {
+    "id": 956,
+    "url": "https://www.baseball-reference.com/players/d/dominja01.shtml",
+    "player": "Jasson Dom\u00c3\u00adnguez"
+  },
+  {
+    "id": 957,
+    "url": "https://www.baseball-reference.com/players/m/manguja01.shtml",
+    "player": "Jake Mangum"
+  },
+  {
+    "id": 958,
+    "url": "https://www.baseball-reference.com/players/q/queroed01.shtml",
+    "player": "Edgar Quero"
+  },
+  {
+    "id": 959,
+    "url": "https://www.baseball-reference.com/players/h/hicksli01.shtml",
+    "player": "Liam Hicks"
+  },
+  {
+    "id": 960,
+    "url": "https://www.baseball-reference.com/players/l/lileda01.shtml",
+    "player": "Daylen Lile"
+  },
+  {
+    "id": 961,
+    "url": "https://www.baseball-reference.com/players/s/sanojja01.shtml",
+    "player": "Javier Sanoja"
+  },
+  {
+    "id": 962,
+    "url": "https://www.baseball-reference.com/players/a/anthoro01.shtml",
+    "player": "Roman Anthony"
+  },
+  {
+    "id": 963,
+    "url": "https://www.baseball-reference.com/players/t/teelky01.shtml",
+    "player": "Kyle Teel"
+  },
+  {
+    "id": 964,
+    "url": "https://www.baseball-reference.com/players/s/saggeth01.shtml",
+    "player": "Thomas Saggese"
+  },
+  {
+    "id": 965,
+    "url": "https://www.baseball-reference.com/players/w/willibe03.shtml",
+    "player": "Ben Williamson"
+  },
+  {
+    "id": 966,
+    "url": "https://www.baseball-reference.com/players/h/hernahe01.shtml",
+    "player": "Heriberto Hern\u00c3\u00a1ndez"
+  },
+  {
+    "id": 967,
+    "url": "https://www.baseball-reference.com/players/m/mayoco01.shtml",
+    "player": "Coby Mayo"
+  },
+  {
+    "id": 968,
+    "url": "https://www.baseball-reference.com/players/m/montgco01.shtml",
+    "player": "Colson Montgomery"
+  },
+  {
+    "id": 969,
+    "url": "https://www.baseball-reference.com/players/h/housebr01.shtml",
+    "player": "Brady House"
+  },
+  {
+    "id": 970,
+    "url": "https://www.baseball-reference.com/players/c/campbkr01.shtml",
+    "player": "Kristian Campbell"
+  },
+  {
+    "id": 971,
+    "url": "https://www.baseball-reference.com/players/y/youngco01.shtml",
+    "player": "Cole Young"
+  },
+  {
+    "id": 972,
+    "url": "https://www.baseball-reference.com/players/c/canaral01.shtml",
+    "player": "Alexander Canario"
+  },
+  {
+    "id": 973,
+    "url": "https://www.baseball-reference.com/players/m/marseja01.shtml",
+    "player": "Jakob Marsee"
+  },
+  {
+    "id": 974,
+    "url": "https://www.baseball-reference.com/players/c/caglija01.shtml",
+    "player": "Jac Caglianone"
+  },
+  {
+    "id": 975,
+    "url": "https://www.baseball-reference.com/players/t/tawati01.shtml",
+    "player": "Tim Tawa"
+  },
+  {
+    "id": 976,
+    "url": "https://www.baseball-reference.com/players/m/muncyma02.shtml",
+    "player": "Max Muncy"
+  },
+  {
+    "id": 977,
+    "url": "https://www.baseball-reference.com/players/k/kempot01.shtml",
+    "player": "Otto Kemp"
+  },
+  {
+    "id": 978,
+    "url": "https://www.baseball-reference.com/players/m/misneka01.shtml",
+    "player": "Kameron Misner"
+  },
+  {
+    "id": 979,
+    "url": "https://www.baseball-reference.com/players/a/alvarna01.shtml",
+    "player": "Nacho Alvarez Jr."
+  },
+  {
+    "id": 980,
+    "url": "https://www.baseball-reference.com/players/k/keasclu01.shtml",
+    "player": "Luke Keaschall"
+  },
+  {
+    "id": 981,
+    "url": "https://www.baseball-reference.com/players/r/rittery01.shtml",
+    "player": "Ryan Ritter"
+  },
+  {
+    "id": 982,
+    "url": "https://www.baseball-reference.com/players/h/hassero02.shtml",
+    "player": "Robert Hassell III"
+  },
+  {
+    "id": 983,
+    "url": "https://www.baseball-reference.com/players/a/acunajo01.shtml",
+    "player": "Luisangel Acu\u00c3\u00b1a"
+  },
+  {
+    "id": 984,
+    "url": "https://www.baseball-reference.com/players/k/kossch01.shtml",
+    "player": "Christian Koss"
+  },
+  {
+    "id": 985,
+    "url": "https://www.baseball-reference.com/players/m/moorech03.shtml",
+    "player": "Christian Moore"
+  },
+  {
+    "id": 986,
+    "url": "https://www.baseball-reference.com/players/p/paulegr01.shtml",
+    "player": "Graham Pauley"
+  },
+  {
+    "id": 987,
+    "url": "https://www.baseball-reference.com/players/j/jacksje02.shtml",
+    "player": "Jeremiah Jackson"
+  },
+  {
+    "id": 988,
+    "url": "https://www.baseball-reference.com/players/o/osunaal02.shtml",
+    "player": "Alejandro Osuna"
+  },
+  {
+    "id": 989,
+    "url": "https://www.baseball-reference.com/players/r/ravejo01.shtml",
+    "player": "John Rave"
+  },
+  {
+    "id": 990,
+    "url": "https://www.baseball-reference.com/players/k/kimhy02.shtml",
+    "player": "Hyeseong Kim"
+  },
+  {
+    "id": 991,
+    "url": "https://www.baseball-reference.com/players/p/pozoyo01.shtml",
+    "player": "Yohel Pozo"
+  },
+  {
+    "id": 992,
+    "url": "https://www.baseball-reference.com/players/c/clarkde02.shtml",
+    "player": "Denzel Clarke"
+  },
+  {
+    "id": 993,
+    "url": "https://www.baseball-reference.com/players/k/karroky01.shtml",
+    "player": "Kyle Karros"
+  },
+  {
+    "id": 994,
+    "url": "https://www.baseball-reference.com/players/r/rushida01.shtml",
+    "player": "Dalton Rushing"
+  },
+  {
+    "id": 995,
+    "url": "https://www.baseball-reference.com/players/r/rodenal01.shtml",
+    "player": "Alan Roden"
+  },
+  {
+    "id": 996,
+    "url": "https://www.baseball-reference.com/players/j/jonesja08.shtml",
+    "player": "Jahmai Jones"
+  },
+  {
+    "id": 997,
+    "url": "https://www.baseball-reference.com/players/t/teodobr01.shtml",
+    "player": "Bryce Teodosio"
+  },
+  {
+    "id": 998,
+    "url": "https://www.baseball-reference.com/players/w/wagnewi01.shtml",
+    "player": "Will Wagner"
+  },
+  {
+    "id": 999,
+    "url": "https://www.baseball-reference.com/players/l/lockrbr01.shtml",
+    "player": "Brandon Lockridge"
+  },
+  {
+    "id": 1000,
+    "url": "https://www.baseball-reference.com/players/f/fernaya01.shtml",
+    "player": "Yanquiel Fern\u00c3\u00a1ndez"
+  },
+  {
+    "id": 1001,
+    "url": "https://www.baseball-reference.com/players/b/bernawa01.shtml",
+    "player": "Warming Bernabel"
+  },
+  {
+    "id": 1002,
+    "url": "https://www.baseball-reference.com/players/p/parisky01.shtml",
+    "player": "Kyren Paris"
+  },
+  {
+    "id": 1003,
+    "url": "https://www.baseball-reference.com/players/k/kayfucj01.shtml",
+    "player": "C.J. Kayfus"
+  },
+  {
+    "id": 1004,
+    "url": "https://www.baseball-reference.com/players/b/beavedy01.shtml",
+    "player": "Dylan Beavers"
+  },
+  {
+    "id": 1005,
+    "url": "https://www.baseball-reference.com/players/m/mayerma01.shtml",
+    "player": "Marcelo Mayer"
+  },
+  {
+    "id": 1006,
+    "url": "https://www.baseball-reference.com/players/m/mervima01.shtml",
+    "player": "Matt Mervis"
+  },
+  {
+    "id": 1007,
+    "url": "https://www.baseball-reference.com/players/t/thomaco03.shtml",
+    "player": "Colby Thomas"
+  },
+  {
+    "id": 1008,
+    "url": "https://www.baseball-reference.com/players/d/delcaad01.shtml",
+    "player": "Adrian Del Castillo"
+  },
+  {
+    "id": 1009,
+    "url": "https://www.baseball-reference.com/players/a/amadoad01.shtml",
+    "player": "Adael Amador"
+  },
+  {
+    "id": 1010,
+    "url": "https://www.baseball-reference.com/players/w/wilsowe01.shtml",
+    "player": "Weston Wilson"
+  },
+  {
+    "id": 1011,
+    "url": "https://www.baseball-reference.com/players/f/freemco01.shtml",
+    "player": "Cody Freeman"
+  },
+  {
+    "id": 1012,
+    "url": "https://www.baseball-reference.com/players/j/johnstr02.shtml",
+    "player": "Troy Johnston"
+  },
+  {
+    "id": 1013,
+    "url": "https://www.baseball-reference.com/players/f/fulfobr01.shtml",
+    "player": "Braxton Fulford"
+  },
+  {
+    "id": 1014,
+    "url": "https://www.baseball-reference.com/players/b/basalsa01.shtml",
+    "player": "Samuel Basallo"
+  },
+  {
+    "id": 1015,
+    "url": "https://www.baseball-reference.com/players/m/marchra01.shtml",
+    "player": "Rafael March\u00c3\u00a1n"
+  },
+  {
+    "id": 1016,
+    "url": "https://www.baseball-reference.com/players/l/locklty01.shtml",
+    "player": "Tyler Locklear"
+  },
+  {
+    "id": 1017,
+    "url": "https://www.baseball-reference.com/players/c/clasejo01.shtml",
+    "player": "Jonatan Clase"
+  },
+  {
+    "id": 1018,
+    "url": "https://www.baseball-reference.com/players/m/macivwi01.shtml",
+    "player": "Willie MacIver"
+  },
+  {
+    "id": 1019,
+    "url": "https://www.baseball-reference.com/players/r/rivasle01.shtml",
+    "player": "Leo Rivas"
+  },
+  {
+    "id": 1020,
+    "url": "https://www.baseball-reference.com/players/g/gaspemi01.shtml",
+    "player": "Mickey Gasper"
+  },
+  {
+    "id": 1021,
+    "url": "https://www.baseball-reference.com/players/h/helmami01.shtml",
+    "player": "Michael Helman"
+  },
+  {
+    "id": 1022,
+    "url": "https://www.baseball-reference.com/players/d/dezenza01.shtml",
+    "player": "Zach Dezenzo"
+  },
+  {
+    "id": 1023,
+    "url": "https://www.baseball-reference.com/players/g/gilbedr01.shtml",
+    "player": "Drew Gilbert"
+  },
+  {
+    "id": 1024,
+    "url": "https://www.baseball-reference.com/players/w/willica02.shtml",
+    "player": "Carson Williams"
+  },
+  {
+    "id": 1025,
+    "url": "https://www.baseball-reference.com/players/f/feduchu01.shtml",
+    "player": "Hunter Feduccia"
+  },
+  {
+    "id": 1026,
+    "url": "https://www.baseball-reference.com/players/c/capravi01.shtml",
+    "player": "Vinny Capra"
+  },
+  {
+    "id": 1027,
+    "url": "https://www.baseball-reference.com/players/s/sogarni01.shtml",
+    "player": "Nick Sogard"
+  }
+]
